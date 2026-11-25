@@ -1,0 +1,210 @@
+{
+  "schema": "MIDI_LAB_4.0",
+  "generated": "eight_minute_unmoving.mid",
+  "bpm": 94,
+  "requested_minutes": 8.0,
+  "actual_minutes": 8.0,
+  "key": "B",
+  "mode": "minor",
+  "ppq": 480,
+  "bars": 188,
+  "seed": 42,
+  "style_assignments": {
+    "harmony": "yl_tender_nocturne",
+    "rhythm": "yl_tender_nocturne",
+    "bass": "yl_tender_nocturne",
+    "melody": "yl_tender_nocturne",
+    "arrangement": "yl_tender_nocturne"
+  },
+  "drum_engine": "minimal",
+  "harmony_mood": "tender",
+  "performance": "none",
+  "variant": "default",
+  "weirdness": {
+    "harmony": 3,
+    "rhythm": 4,
+    "form": 2,
+    "register": 2,
+    "texture": 4
+  },
+  "motif_ledger": {
+    "pitches": [
+      74,
+      76,
+      73,
+      71
+    ],
+    "degrees": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "intervals": [
+      2,
+      -3,
+      -2
+    ],
+    "rhythm": [
+      0.5,
+      1.25,
+      2.25,
+      3.25
+    ],
+    "final_operation": "reverse order, delay final note and reharmonize with a borrowed chord"
+  },
+  "motif_reappearances": [],
+  "harmonic_sequence": [],
+  "guitar_fretboard_grips": [],
+  "guitar_shape_fallbacks": 0,
+  "sections": [
+    {
+      "name": "Signal",
+      "start_bar": 1,
+      "end_bar": 16,
+      "energy": 0.2
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 17,
+      "end_bar": 48,
+      "energy": 0.51
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 49,
+      "end_bar": 70,
+      "energy": 0.66
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 71,
+      "end_bar": 104,
+      "energy": 0.79
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 105,
+      "end_bar": 124,
+      "energy": 0.24
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 125,
+      "end_bar": 146,
+      "energy": 0.65
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 147,
+      "end_bar": 174,
+      "energy": 0.86
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 175,
+      "end_bar": 188,
+      "energy": 0.18
+    }
+  ],
+  "role_notes": {
+    "Harmonic Bed": 0,
+    "Melodic Bass": 0,
+    "Sub Sequence": 0,
+    "Picked Guitar": 0,
+    "Reply Guitar": 0,
+    "Four Note Hook": 0,
+    "Ghost Keys": 0,
+    "Drum Engine": 0,
+    "Immutable Pulse": 752,
+    "Loop Drums": 1504,
+    "Memory Plucks": 188,
+    "Slow Upper Voices": 132,
+    "Expressive Bass": 0,
+    "Companion Guitar": 0
+  },
+  "limitations": [
+    "Rule-based MIDI composition, not audio rendering or a trained music model.",
+    "Guitar fretboard shapes assume standard tuning; actual patch may not support guitar articulations.",
+    "Key signature meta-events cannot express modal key signatures uniquely.",
+    "Velocity response varies by receiving Logic Pro instrument."
+  ],
+  "emotional_arc": [
+    "regret",
+    "numbness",
+    "recognition",
+    "acceptance",
+    "triumph"
+  ],
+  "emotional_log": [
+    {
+      "bar": 1,
+      "emotion": "regret",
+      "state": {
+        "register": -5,
+        "density": 0.45,
+        "color": "minor9",
+        "velocity": -6
+      }
+    },
+    {
+      "bar": 38,
+      "emotion": "regret",
+      "state": {
+        "register": -5,
+        "density": 0.45,
+        "color": "minor9",
+        "velocity": -6
+      }
+    },
+    {
+      "bar": 75,
+      "emotion": "numbness",
+      "state": {
+        "register": -12,
+        "density": 0.24,
+        "color": "sus",
+        "velocity": -13
+      }
+    },
+    {
+      "bar": 112,
+      "emotion": "recognition",
+      "state": {
+        "register": 0,
+        "density": 0.57,
+        "color": "add9",
+        "velocity": 0
+      }
+    },
+    {
+      "bar": 149,
+      "emotion": "acceptance",
+      "state": {
+        "register": 2,
+        "density": 0.58,
+        "color": "major6",
+        "velocity": -2
+      }
+    },
+    {
+      "bar": 186,
+      "emotion": "triumph",
+      "state": {
+        "register": 7,
+        "density": 0.74,
+        "color": "sixth",
+        "velocity": 4
+      }
+    }
+  ],
+  "repetition_mode": "immutable",
+  "drums_immutable": true,
+  "anchor_immutable": true,
+  "instrument_detail": "expressive",
+  "max_active_roles": 5,
+  "performance_locked_tracks": [
+    "Immutable Pulse",
+    "Loop Drums"
+  ]
+}

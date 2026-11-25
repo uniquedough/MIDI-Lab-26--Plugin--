@@ -1,0 +1,62 @@
+{
+  "version": "3.0",
+  "demos": [
+    {
+      "name": "neon_afterglow_neworder",
+      "key": "F#",
+      "mode": "minor",
+      "bpm": 124,
+      "seconds": 216.69,
+      "notes": 2695,
+      "drum_engine": "motorik",
+      "technical_pass": true,
+      "program_changes": 0,
+      "bank_selects": 0,
+      "hanging_notes": 0,
+      "fretboard_fallbacks": 0
+    },
+    {
+      "name": "velvet_corners_ukg",
+      "key": "Eb",
+      "mode": "dorian",
+      "bpm": 136,
+      "seconds": 155.21,
+      "notes": 1960,
+      "drum_engine": "ukg",
+      "technical_pass": true,
+      "program_changes": 0,
+      "bank_selects": 0,
+      "hanging_notes": 0,
+      "fretboard_fallbacks": 0
+    },
+    {
+      "name": "windows_still_glowing_ballad",
+      "key": "D",
+      "mode": "major",
+      "bpm": 76,
+      "seconds": 239.54,
+      "notes": 774,
+      "drum_engine": "ballad",
+      "technical_pass": true,
+      "program_changes": 0,
+      "bank_selects": 0,
+      "hanging_notes": 0,
+      "fretboard_fallbacks": 0
+    },
+    {
+      "name": "neon_afterglow_strange",
+      "key": "F#",
+      "mode": "minor",
+      "bpm": 124,
+      "seconds": 216.69,
+      "notes": 2687,
+      "drum_engine": "motorik",
+      "technical_pass": true,
+      "program_changes": 0,
+      "bank_selects": 0,
+      "hanging_notes": 0,
+      "fretboard_fallbacks": 0
+    }
+  ],
+  "interpretation": "Structural export checks only. Musical quality needs human listening."
+}

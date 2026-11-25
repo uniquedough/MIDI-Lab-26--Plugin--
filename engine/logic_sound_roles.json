@@ -1,0 +1,15 @@
+{
+  "purpose": "Patch-independent sound assignment ideas; these are descriptive roles, not guaranteed Logic factory preset names.",
+  "tracks": {
+    "Harmonic Bed": {"choose": "Warm vintage organ, e-piano or soft analog polysynth", "performance": "Use velocity-sensitive patch or adjust velocity-to-filter if supported", "suggested_processing": "Light chorus, high-pass below bass region, subtle room reverb"},
+    "Melodic Bass": {"choose": "Picked electric bass or round finger-style bass", "performance": "Shorter pickup notes, strong phrase starts, occasional higher-register counterlines", "suggested_processing": "Modest compression, mild upper-mid saturation; preserve pitch definition"},
+    "Sub Sequence": {"choose": "Sine/triangle or compact mono analog synth", "performance": "Machine-tight attack and velocity", "suggested_processing": "Mono low end, minimal reverb, tame resonance"},
+    "Picked Guitar": {"choose": "Clean lightly muted guitar, sampled picked guitar, or crisp pluck synth", "performance": "Standard-tuning voicings in composition manifest; alternating accents", "suggested_processing": "Chorus or very short delay, control transients, medium stereo position"},
+    "Reply Guitar": {"choose": "Clean guitar of a different pickup/timbre than first part", "performance": "Sparse gap-filling accents", "suggested_processing": "Opposite pan from picked guitar, smaller reverb"},
+    "Four Note Hook": {"choose": "Clean electric guitar lead, breathy lead synth or sparse electric piano", "performance": "Phrase-based velocity; leave unplayed bars for a vocal", "suggested_processing": "Slow chorus or modest delay with quiet repeats"},
+    "Ghost Keys": {"choose": "FM bell, tape-softened synth or gentle sine lead", "performance": "Fragile low velocities", "suggested_processing": "Soft low pass, modulation, ambient decay"},
+    "Drum Engine": {"choose": "GM-compatible drum machine kit or remapped Logic Drum Machine Designer pads", "performance": "Separate kicks/snares/ghost hits by velocity; adjust kit if GM mapping differs", "suggested_processing": "Dry kick and snare, gentle bus glue, hats lower than you think"}
+  },
+  "patch_independence": "No Program Changes, CC0, or CC32 events are generated. Other safe CCs are not inserted by the v3 composer.",
+  "limitations": "MIDI alone cannot create tape hiss, chorus tone, actual feedback, room acoustics, or singer phrasing. Velocity-layer realism depends on the selected instrument."
+}

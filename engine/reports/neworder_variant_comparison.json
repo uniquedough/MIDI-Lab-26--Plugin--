@@ -1,0 +1,19 @@
+{
+  "a": "neon_afterglow_neworder.mid",
+  "b": "neon_afterglow_strange.mid",
+  "note_count_delta_b_minus_a": -8,
+  "duration_delta_seconds": 0.0,
+  "role_note_count_delta": {
+    "Drum Engine": 0,
+    "Four Note Hook": 0,
+    "Ghost Keys": 0,
+    "Harmonic Bed": 0,
+    "Melodic Bass": 0,
+    "Picked Guitar": -8,
+    "Reply Guitar": 0,
+    "Sub Sequence": 0
+  },
+  "bass_kick_overlap_a": 0.67,
+  "bass_kick_overlap_b": 0.67,
+  "note": "Quantitative only. A musical improvement needs an ear-based assessment."
+}

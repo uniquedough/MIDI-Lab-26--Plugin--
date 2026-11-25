@@ -1,0 +1,82 @@
+{
+  "input": "/mnt/data/MIDI_Lab_3_0/examples/velvet_corners_ukg.mid",
+  "output": "/mnt/data/MIDI_Lab_3_0/examples/velvet_corners_ukg.mid",
+  "feel": "tight",
+  "seed": 2036,
+  "notes": 1960,
+  "program_changes_removed": 0,
+  "bank_selects_removed": 0,
+  "tracks": {
+    "Harmonic Bed": {
+      "notes": 366,
+      "instruments": {
+        "analog_synth": 366
+      },
+      "velocity_min": 67,
+      "velocity_max": 78,
+      "velocity_average": 73.2
+    },
+    "Melodic Bass": {
+      "notes": 288,
+      "instruments": {
+        "picked_bass": 288
+      },
+      "velocity_min": 72,
+      "velocity_max": 102,
+      "velocity_average": 83.1
+    },
+    "Sub Sequence": {
+      "notes": 128,
+      "instruments": {
+        "sub_synth": 128
+      },
+      "velocity_min": 76,
+      "velocity_max": 87,
+      "velocity_average": 81.8
+    },
+    "Picked Guitar": {
+      "notes": 196,
+      "instruments": {
+        "ringing_guitar": 196
+      },
+      "velocity_min": 65,
+      "velocity_max": 77,
+      "velocity_average": 71.4
+    },
+    "Four Note Hook": {
+      "notes": 95,
+      "instruments": {
+        "lead_synth": 95
+      },
+      "velocity_min": 67,
+      "velocity_max": 78,
+      "velocity_average": 72.1
+    },
+    "Ghost Keys": {
+      "notes": 20,
+      "instruments": {
+        "analog_synth": 20
+      },
+      "velocity_min": 63,
+      "velocity_max": 68,
+      "velocity_average": 65.4
+    },
+    "Drum Engine": {
+      "notes": 867,
+      "instruments": {
+        "drum_machine": 867
+      },
+      "velocity_min": 30,
+      "velocity_max": 98,
+      "velocity_average": 64.3
+    }
+  },
+  "min_duration_ticks": 34,
+  "check": {
+    "note_ons": 1960,
+    "note_offs": 1960,
+    "program_changes": 0,
+    "bank_selects": 0,
+    "passed": true
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "file": "eight_minute_unmoving.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 480.0,
+  "note_count": 2576,
+  "track_count": 4,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Immutable Pulse",
+      "note_count": 752,
+      "register": [
+        47,
+        47
+      ],
+      "velocity": {
+        "min": 66,
+        "mean": 70.8,
+        "stdev": 4.3,
+        "max": 76
+      },
+      "top_intervals": [
+        [
+          0,
+          751
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 188,
+        "6": 188,
+        "8": 188,
+        "14": 188
+      },
+      "avg_note_length_beats": 0.372
+    },
+    {
+      "name": "Loop Drums",
+      "note_count": 1504,
+      "register": [
+        36,
+        42
+      ],
+      "velocity": {
+        "min": 39,
+        "mean": 60.2,
+        "stdev": 19.2,
+        "max": 87
+      },
+      "top_intervals": [
+        [
+          6,
+          376
+        ],
+        [
+          -4,
+          376
+        ],
+        [
+          4,
+          376
+        ],
+        [
+          -6,
+          375
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 188,
+        "2": 188,
+        "4": 188,
+        "6": 188,
+        "8": 188,
+        "10": 188,
+        "12": 188,
+        "14": 188
+      },
+      "avg_note_length_beats": 0.078
+    },
+    {
+      "name": "Memory Plucks",
+      "note_count": 188,
+      "register": [
+        59,
+        78
+      ],
+      "velocity": {
+        "min": 36,
+        "mean": 53.4,
+        "stdev": 7.7,
+        "max": 70
+      },
+      "top_intervals": [
+        [
+          -1,
+          47
+        ],
+        [
+          -2,
+          47
+        ],
+        [
+          -4,
+          38
+        ],
+        [
+          7,
+          37
+        ],
+        [
+          19,
+          9
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "2": 47,
+        "6": 47,
+        "10": 47,
+        "13": 47
+      },
+      "avg_note_length_beats": 0.438
+    },
+    {
+      "name": "Slow Upper Voices",
+      "note_count": 132,
+      "register": [
+        62,
+        73
+      ],
+      "velocity": {
+        "min": 35,
+        "mean": 47.9,
+        "stdev": 5.5,
+        "max": 58
+      },
+      "top_intervals": [
+        [
+          -11,
+          36
+        ],
+        [
+          4,
+          20
+        ],
+        [
+          7,
+          20
+        ],
+        [
+          6,
+          18
+        ],
+        [
+          5,
+          18
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 132
+      },
+      "avg_note_length_beats": 7.85
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "Signal",
+      "start_bar": 1.0,
+      "end_bar": 16.0,
+      "notes_per_bar": 13.75,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 64,
+        "Loop Drums": 128,
+        "Memory Plucks": 16,
+        "Slow Upper Voices": 12
+      }
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 17.0,
+      "end_bar": 48.0,
+      "notes_per_bar": 13.69,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 128,
+        "Loop Drums": 256,
+        "Memory Plucks": 32,
+        "Slow Upper Voices": 22
+      }
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 49.0,
+      "end_bar": 70.0,
+      "notes_per_bar": 13.64,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 88,
+        "Loop Drums": 176,
+        "Memory Plucks": 24,
+        "Slow Upper Voices": 12
+      }
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 71.0,
+      "end_bar": 104.0,
+      "notes_per_bar": 13.62,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 136,
+        "Loop Drums": 272,
+        "Memory Plucks": 32,
+        "Slow Upper Voices": 23
+      }
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 105.0,
+      "end_bar": 124.0,
+      "notes_per_bar": 13.75,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 80,
+        "Loop Drums": 160,
+        "Memory Plucks": 20,
+        "Slow Upper Voices": 15
+      }
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 125.0,
+      "end_bar": 146.0,
+      "notes_per_bar": 13.91,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 88,
+        "Loop Drums": 176,
+        "Memory Plucks": 24,
+        "Slow Upper Voices": 18
+      }
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 147.0,
+      "end_bar": 174.0,
+      "notes_per_bar": 13.75,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 112,
+        "Loop Drums": 224,
+        "Memory Plucks": 28,
+        "Slow Upper Voices": 21
+      }
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 175.0,
+      "end_bar": 188.0,
+      "notes_per_bar": 13.5,
+      "active_roles": 4,
+      "part_counts": {
+        "Immutable Pulse": 56,
+        "Loop Drums": 112,
+        "Memory Plucks": 12,
+        "Slow Upper Voices": 9
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": null,
+  "most_common_melodic_contours": [],
+  "diagnostics": [
+    "Section density changes little; consider subtracting a role."
+  ],
+  "quality_caveat": "These are structural features; ear-based critique is still required.",
+  "declared_key_mode": "B minor",
+  "declared_drum_engine": "minimal",
+  "borrowed_chord_occurrences": 0,
+  "motif_operations": {},
+  "fretboard_shape_fallbacks": 0
+}

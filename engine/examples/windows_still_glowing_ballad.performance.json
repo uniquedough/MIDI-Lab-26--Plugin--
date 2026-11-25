@@ -1,0 +1,64 @@
+{
+  "input": "/mnt/data/MIDI_Lab_3_0/examples/windows_still_glowing_ballad.mid",
+  "output": "/mnt/data/MIDI_Lab_3_0/examples/windows_still_glowing_ballad.mid",
+  "feel": "natural",
+  "seed": 7624,
+  "notes": 774,
+  "program_changes_removed": 0,
+  "bank_selects_removed": 0,
+  "tracks": {
+    "Harmonic Bed": {
+      "notes": 304,
+      "instruments": {
+        "analog_synth": 304
+      },
+      "velocity_min": 66,
+      "velocity_max": 76,
+      "velocity_average": 71.5
+    },
+    "Melodic Bass": {
+      "notes": 128,
+      "instruments": {
+        "picked_bass": 128
+      },
+      "velocity_min": 70,
+      "velocity_max": 102,
+      "velocity_average": 86.6
+    },
+    "Picked Guitar": {
+      "notes": 149,
+      "instruments": {
+        "ringing_guitar": 149
+      },
+      "velocity_min": 64,
+      "velocity_max": 83,
+      "velocity_average": 72.2
+    },
+    "Four Note Hook": {
+      "notes": 69,
+      "instruments": {
+        "lead_synth": 69
+      },
+      "velocity_min": 63,
+      "velocity_max": 85,
+      "velocity_average": 72.4
+    },
+    "Drum Engine": {
+      "notes": 124,
+      "instruments": {
+        "drum_machine": 124
+      },
+      "velocity_min": 72,
+      "velocity_max": 97,
+      "velocity_average": 83.8
+    }
+  },
+  "min_duration_ticks": 34,
+  "check": {
+    "note_ons": 774,
+    "note_offs": 774,
+    "program_changes": 0,
+    "bank_selects": 0,
+    "passed": true
+  }
+}

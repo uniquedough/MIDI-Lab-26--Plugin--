@@ -1,0 +1,18 @@
+{
+  "version": "2.0",
+  "status": "Early observations. Not trained machine-learning weights.",
+  "explicit_user_observations": [
+    {
+      "observation": "Satisfied with the 93 BPM Aphex/Strokes/LCD MIDI and the 123 BPM Boards-of-Canada/Puzzle/LCD MIDI.",
+      "inference_policy": "Preserve these as accepted reference cases; do not infer which individual notes or tracks were liked without further feedback."
+    },
+    {
+      "observation": "Wants to experiment with the post-2017 solo-era sound of The Drums.",
+      "inference_policy": "Provide solo-era style directions, not a claim that any particular track is preferred."
+    }
+  ],
+  "hard_rules": ["No Program Change", "No CC0 or CC32 Bank Select", "Named separate MIDI tracks", "Avoid gratuitous note density"],
+  "approved_adjustments": {"bass_motion": 0,"drum_mutation": 0,"guitar_activity": 0,"synthetic_artifacts": 0,"hook_density": 0,"arrangement_growth": 0,"harmonic_borrow": 0},
+  "feedback": [],
+  "promotion_rule": "Apply permanent preference changes only after explicit request or repeated consistent feedback."
+}

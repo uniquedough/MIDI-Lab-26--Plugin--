@@ -1,0 +1,637 @@
+{
+  "file": "while_the_lights_fracture.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 363.52,
+  "note_count": 3103,
+  "track_count": 11,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Immutable Pulse",
+      "note_count": 696,
+      "register": [
+        54,
+        54
+      ],
+      "velocity": {
+        "min": 66,
+        "mean": 70.8,
+        "stdev": 4.3,
+        "max": 76
+      },
+      "top_intervals": [
+        [
+          0,
+          695
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 174,
+        "6": 174,
+        "8": 174,
+        "14": 174
+      },
+      "avg_note_length_beats": 0.372
+    },
+    {
+      "name": "Loop Drums",
+      "note_count": 1392,
+      "register": [
+        36,
+        42
+      ],
+      "velocity": {
+        "min": 39,
+        "mean": 60.2,
+        "stdev": 19.2,
+        "max": 87
+      },
+      "top_intervals": [
+        [
+          6,
+          348
+        ],
+        [
+          -4,
+          348
+        ],
+        [
+          4,
+          348
+        ],
+        [
+          -6,
+          347
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 174,
+        "2": 174,
+        "4": 174,
+        "6": 174,
+        "8": 174,
+        "10": 174,
+        "12": 174,
+        "14": 174
+      },
+      "avg_note_length_beats": 0.078
+    },
+    {
+      "name": "Memory Plucks",
+      "note_count": 168,
+      "register": [
+        66,
+        85
+      ],
+      "velocity": {
+        "min": 41,
+        "mean": 54.3,
+        "stdev": 5.7,
+        "max": 64
+      },
+      "top_intervals": [
+        [
+          -1,
+          44
+        ],
+        [
+          -2,
+          36
+        ],
+        [
+          -4,
+          35
+        ],
+        [
+          7,
+          26
+        ],
+        [
+          19,
+          9
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "2": 44,
+        "6": 44,
+        "10": 44,
+        "13": 36
+      },
+      "avg_note_length_beats": 0.43
+    },
+    {
+      "name": "Slow Upper Voices",
+      "note_count": 124,
+      "register": [
+        69,
+        80
+      ],
+      "velocity": {
+        "min": 38,
+        "mean": 50.4,
+        "stdev": 5.6,
+        "max": 61
+      },
+      "top_intervals": [
+        [
+          -11,
+          34
+        ],
+        [
+          4,
+          27
+        ],
+        [
+          7,
+          27
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          5,
+          9
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 124
+      },
+      "avg_note_length_beats": 14.8
+    },
+    {
+      "name": "Expressive Bass",
+      "note_count": 210,
+      "register": [
+        54,
+        61
+      ],
+      "velocity": {
+        "min": 49,
+        "mean": 68.4,
+        "stdev": 13.0,
+        "max": 92
+      },
+      "top_intervals": [
+        [
+          7,
+          70
+        ],
+        [
+          -2,
+          70
+        ],
+        [
+          -5,
+          69
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 70,
+        "10": 70,
+        "14": 70
+      },
+      "avg_note_length_beats": 0.486
+    },
+    {
+      "name": "Companion Guitar",
+      "note_count": 4,
+      "register": [
+        85,
+        85
+      ],
+      "velocity": {
+        "min": 37,
+        "mean": 37,
+        "stdev": 0.0,
+        "max": 37
+      },
+      "top_intervals": [
+        [
+          0,
+          3
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "12": 4
+      },
+      "avg_note_length_beats": 0.56
+    },
+    {
+      "name": "Bent Chord Stabs",
+      "note_count": 167,
+      "register": [
+        66,
+        88
+      ],
+      "velocity": {
+        "min": 45,
+        "mean": 65.5,
+        "stdev": 7.6,
+        "max": 75
+      },
+      "top_intervals": [
+        [
+          16,
+          23
+        ],
+        [
+          17,
+          16
+        ],
+        [
+          -9,
+          16
+        ],
+        [
+          -20,
+          11
+        ],
+        [
+          0,
+          10
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 51,
+        "2": 19,
+        "3": 17,
+        "5": 22,
+        "6": 22,
+        "7": 17,
+        "9": 19
+      },
+      "avg_note_length_beats": 0.25
+    },
+    {
+      "name": "Detuned Pluck Fragments",
+      "note_count": 130,
+      "register": [
+        81,
+        85
+      ],
+      "velocity": {
+        "min": 38,
+        "mean": 54.5,
+        "stdev": 6.6,
+        "max": 60
+      },
+      "top_intervals": [
+        [
+          4,
+          35
+        ],
+        [
+          -2,
+          26
+        ],
+        [
+          -1,
+          18
+        ],
+        [
+          -3,
+          17
+        ],
+        [
+          -4,
+          11
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "3": 47,
+        "9": 39,
+        "13": 44
+      },
+      "avg_note_length_beats": 0.196
+    },
+    {
+      "name": "Industrial Percussion",
+      "note_count": 131,
+      "register": [
+        37,
+        75
+      ],
+      "velocity": {
+        "min": 37,
+        "mean": 57.5,
+        "stdev": 10.0,
+        "max": 66
+      },
+      "top_intervals": [
+        [
+          0,
+          25
+        ],
+        [
+          19,
+          15
+        ],
+        [
+          -19,
+          14
+        ],
+        [
+          2,
+          12
+        ],
+        [
+          -38,
+          12
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 12,
+        "1": 16,
+        "3": 22,
+        "5": 19,
+        "7": 17,
+        "10": 13,
+        "13": 17,
+        "15": 15
+      },
+      "avg_note_length_beats": 0.09
+    },
+    {
+      "name": "Chromatic Counterline",
+      "note_count": 36,
+      "register": [
+        71,
+        74
+      ],
+      "velocity": {
+        "min": 58,
+        "mean": 60.7,
+        "stdev": 3.0,
+        "max": 64
+      },
+      "top_intervals": [
+        [
+          -1,
+          9
+        ],
+        [
+          -2,
+          9
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          1,
+          8
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "1": 9,
+        "4": 9,
+        "7": 9,
+        "10": 9
+      },
+      "avg_note_length_beats": 0.271
+    },
+    {
+      "name": "Altered Harmony",
+      "note_count": 45,
+      "register": [
+        54,
+        76
+      ],
+      "velocity": {
+        "min": 36,
+        "mean": 44.4,
+        "stdev": 4.9,
+        "max": 52
+      },
+      "top_intervals": [
+        [
+          4,
+          21
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          -10,
+          2
+        ],
+        [
+          -21,
+          2
+        ],
+        [
+          -15,
+          2
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 27,
+        "2": 18
+      },
+      "avg_note_length_beats": 5.55
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "Signal",
+      "start_bar": 1.0,
+      "end_bar": 16.0,
+      "notes_per_bar": 15.44,
+      "active_roles": 7,
+      "part_counts": {
+        "Immutable Pulse": 64,
+        "Loop Drums": 128,
+        "Memory Plucks": 16,
+        "Slow Upper Voices": 12,
+        "Expressive Bass": 24,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 2,
+        "Detuned Pluck Fragments": 1,
+        "Industrial Percussion": 0,
+        "Chromatic Counterline": 0,
+        "Altered Harmony": 0
+      }
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 17.0,
+      "end_bar": 46.0,
+      "notes_per_bar": 15.9,
+      "active_roles": 8,
+      "part_counts": {
+        "Immutable Pulse": 120,
+        "Loop Drums": 240,
+        "Memory Plucks": 32,
+        "Slow Upper Voices": 24,
+        "Expressive Bass": 45,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 7,
+        "Detuned Pluck Fragments": 3,
+        "Industrial Percussion": 6,
+        "Chromatic Counterline": 0,
+        "Altered Harmony": 0
+      }
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 47.0,
+      "end_bar": 66.0,
+      "notes_per_bar": 16.4,
+      "active_roles": 8,
+      "part_counts": {
+        "Immutable Pulse": 80,
+        "Loop Drums": 160,
+        "Memory Plucks": 20,
+        "Slow Upper Voices": 15,
+        "Expressive Bass": 30,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 10,
+        "Detuned Pluck Fragments": 7,
+        "Industrial Percussion": 6,
+        "Chromatic Counterline": 0,
+        "Altered Harmony": 0
+      }
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 67.0,
+      "end_bar": 98.0,
+      "notes_per_bar": 19.56,
+      "active_roles": 10,
+      "part_counts": {
+        "Immutable Pulse": 128,
+        "Loop Drums": 256,
+        "Memory Plucks": 25,
+        "Slow Upper Voices": 17,
+        "Expressive Bass": 6,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 64,
+        "Detuned Pluck Fragments": 51,
+        "Industrial Percussion": 47,
+        "Chromatic Counterline": 12,
+        "Altered Harmony": 20
+      }
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 99.0,
+      "end_bar": 118.0,
+      "notes_per_bar": 21.4,
+      "active_roles": 10,
+      "part_counts": {
+        "Immutable Pulse": 80,
+        "Loop Drums": 160,
+        "Memory Plucks": 19,
+        "Slow Upper Voices": 14,
+        "Expressive Bass": 21,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 40,
+        "Detuned Pluck Fragments": 39,
+        "Industrial Percussion": 37,
+        "Chromatic Counterline": 8,
+        "Altered Harmony": 10
+      }
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 119.0,
+      "end_bar": 138.0,
+      "notes_per_bar": 20.9,
+      "active_roles": 10,
+      "part_counts": {
+        "Immutable Pulse": 80,
+        "Loop Drums": 160,
+        "Memory Plucks": 20,
+        "Slow Upper Voices": 15,
+        "Expressive Bass": 30,
+        "Companion Guitar": 0,
+        "Bent Chord Stabs": 36,
+        "Detuned Pluck Fragments": 25,
+        "Industrial Percussion": 21,
+        "Chromatic Counterline": 16,
+        "Altered Harmony": 15
+      }
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 139.0,
+      "end_bar": 164.0,
+      "notes_per_bar": 16.15,
+      "active_roles": 9,
+      "part_counts": {
+        "Immutable Pulse": 104,
+        "Loop Drums": 208,
+        "Memory Plucks": 24,
+        "Slow Upper Voices": 18,
+        "Expressive Bass": 39,
+        "Companion Guitar": 3,
+        "Bent Chord Stabs": 8,
+        "Detuned Pluck Fragments": 2,
+        "Industrial Percussion": 14,
+        "Chromatic Counterline": 0,
+        "Altered Harmony": 0
+      }
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 165.0,
+      "end_bar": 175.7,
+      "notes_per_bar": 13.59,
+      "active_roles": 7,
+      "part_counts": {
+        "Immutable Pulse": 40,
+        "Loop Drums": 80,
+        "Memory Plucks": 12,
+        "Slow Upper Voices": 9,
+        "Expressive Bass": 15,
+        "Companion Guitar": 1,
+        "Bent Chord Stabs": 0,
+        "Detuned Pluck Fragments": 2,
+        "Industrial Percussion": 0,
+        "Chromatic Counterline": 0,
+        "Altered Harmony": 0
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": 0.333,
+  "most_common_melodic_contours": [
+    {
+      "contour": [
+        7,
+        -2,
+        -5
+      ],
+      "occurrences": 69
+    },
+    {
+      "contour": [
+        -2,
+        -5,
+        7
+      ],
+      "occurrences": 69
+    },
+    {
+      "contour": [
+        -5,
+        7,
+        -2
+      ],
+      "occurrences": 69
+    }
+  ],
+  "diagnostics": [],
+  "quality_caveat": "These are structural features; ear-based critique is still required."
+}

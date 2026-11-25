@@ -1,0 +1,1914 @@
+{
+  "schema": "MIDI_LAB_3.0",
+  "generated": "velvet_corners_ukg.mid",
+  "bpm": 136,
+  "requested_minutes": 2.6,
+  "actual_minutes": 2.5882,
+  "key": "Eb",
+  "mode": "dorian",
+  "ppq": 480,
+  "bars": 88,
+  "seed": 2036,
+  "style_assignments": {
+    "harmony": "ukg_elegant_night",
+    "rhythm": "pink_bedroom_2step",
+    "bass": "pink_bedroom_2step",
+    "melody": "pink_bedroom_2step",
+    "arrangement": "pink_fancy_club"
+  },
+  "drum_engine": "ukg",
+  "harmony_mood": "tender",
+  "performance": "tight",
+  "variant": "default",
+  "weirdness": {
+    "harmony": 3,
+    "rhythm": 4,
+    "form": 2,
+    "register": 2,
+    "texture": 4
+  },
+  "motif_ledger": {
+    "pitches": [
+      70,
+      68,
+      65,
+      63
+    ],
+    "degrees": [
+      4,
+      3,
+      1,
+      0
+    ],
+    "intervals": [
+      -2,
+      -3,
+      -2
+    ],
+    "rhythm": [
+      0.5,
+      1.25,
+      2.25,
+      3.25
+    ],
+    "final_operation": "reverse order, delay final note and reharmonize with a borrowed chord"
+  },
+  "motif_reappearances": [
+    {
+      "bar": 23,
+      "operation": "fragment",
+      "notes": [
+        70,
+        68,
+        65
+      ]
+    },
+    {
+      "bar": 25,
+      "operation": "fragment",
+      "notes": [
+        70,
+        68,
+        65
+      ]
+    },
+    {
+      "bar": 27,
+      "operation": "fragment",
+      "notes": [
+        70,
+        68,
+        65
+      ]
+    },
+    {
+      "bar": 29,
+      "operation": "fragment",
+      "notes": [
+        70,
+        68,
+        65
+      ]
+    },
+    {
+      "bar": 31,
+      "operation": "fragment",
+      "notes": [
+        70,
+        68,
+        65
+      ]
+    },
+    {
+      "bar": 33,
+      "operation": "original",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 35,
+      "operation": "changed final note",
+      "notes": [
+        70,
+        68,
+        65,
+        65
+      ]
+    },
+    {
+      "bar": 37,
+      "operation": "original",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 39,
+      "operation": "changed final note",
+      "notes": [
+        70,
+        68,
+        65,
+        65
+      ]
+    },
+    {
+      "bar": 41,
+      "operation": "original",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 43,
+      "operation": "changed final note",
+      "notes": [
+        70,
+        68,
+        65,
+        65
+      ]
+    },
+    {
+      "bar": 45,
+      "operation": "original",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 47,
+      "operation": "changed final note",
+      "notes": [
+        70,
+        68,
+        65,
+        65
+      ]
+    },
+    {
+      "bar": 59,
+      "operation": "anticipation and displacement",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 61,
+      "operation": "anticipation and displacement",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 63,
+      "operation": "anticipation and displacement",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 65,
+      "operation": "anticipation and displacement",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 67,
+      "operation": "anticipation and displacement",
+      "notes": [
+        70,
+        68,
+        65,
+        63
+      ]
+    },
+    {
+      "bar": 69,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 71,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 73,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 75,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 77,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 79,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    },
+    {
+      "bar": 81,
+      "operation": "reordered contour, delayed ending / new harmony",
+      "notes": [
+        63,
+        68,
+        65,
+        70
+      ]
+    }
+  ],
+  "harmonic_sequence": [
+    {
+      "bar": 1,
+      "symbol": "Ebm7",
+      "pitches": [
+        51,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 2,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        51,
+        61,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 3,
+      "symbol": "F#maj7",
+      "pitches": [
+        53,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 4,
+      "symbol": "C#maj7",
+      "pitches": [
+        53,
+        61,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 5,
+      "symbol": "Ab7",
+      "pitches": [
+        54,
+        63,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 6,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        49,
+        63,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 7,
+      "symbol": "Fm7",
+      "pitches": [
+        53,
+        63,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 8,
+      "symbol": "Bbm7",
+      "pitches": [
+        53,
+        61,
+        68,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 9,
+      "symbol": "Ebm7",
+      "pitches": [
+        51,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 10,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        51,
+        61,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 11,
+      "symbol": "F#maj7",
+      "pitches": [
+        53,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 12,
+      "symbol": "C#maj7",
+      "pitches": [
+        53,
+        61,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 13,
+      "symbol": "Ab7",
+      "pitches": [
+        54,
+        63,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 14,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        49,
+        63,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 15,
+      "symbol": "Fm7",
+      "pitches": [
+        53,
+        63,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 16,
+      "symbol": "Bbm7",
+      "pitches": [
+        53,
+        61,
+        68,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 17,
+      "symbol": "Ebm7",
+      "pitches": [
+        51,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 18,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        51,
+        61,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 19,
+      "symbol": "F#maj7",
+      "pitches": [
+        53,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 20,
+      "symbol": "C#maj7",
+      "pitches": [
+        53,
+        61,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 21,
+      "symbol": "Ab7",
+      "pitches": [
+        54,
+        63,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 22,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        49,
+        63,
+        70,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 23,
+      "symbol": "Ebm7",
+      "pitches": [
+        49,
+        63,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 24,
+      "symbol": "Cm7",
+      "pitches": [
+        51,
+        60,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 25,
+      "symbol": "F#maj7",
+      "pitches": [
+        53,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 26,
+      "symbol": "C#maj7 add9",
+      "pitches": [
+        53,
+        61,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 27,
+      "symbol": "Ab7",
+      "pitches": [
+        54,
+        56,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 28,
+      "symbol": "Cm7",
+      "pitches": [
+        54,
+        58,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 29,
+      "symbol": "Fm7",
+      "pitches": [
+        53,
+        56,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 30,
+      "symbol": "Bbm7 add9",
+      "pitches": [
+        56,
+        58,
+        61,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 31,
+      "symbol": "Ebm7",
+      "pitches": [
+        54,
+        58,
+        61,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 32,
+      "symbol": "Cm7",
+      "pitches": [
+        54,
+        58,
+        60,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 33,
+      "symbol": "Ebm7",
+      "pitches": [
+        54,
+        58,
+        61,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 34,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        51,
+        58,
+        61,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 35,
+      "symbol": "F#maj7",
+      "pitches": [
+        54,
+        58,
+        61,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 36,
+      "symbol": "C#maj7",
+      "pitches": [
+        56,
+        60,
+        61,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 37,
+      "symbol": "Ab7",
+      "pitches": [
+        56,
+        60,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 38,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        58,
+        60,
+        61,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 39,
+      "symbol": "Fm7",
+      "pitches": [
+        56,
+        60,
+        65,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 40,
+      "symbol": "Bbm7",
+      "pitches": [
+        56,
+        58,
+        65,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 41,
+      "symbol": "Ebm7",
+      "pitches": [
+        54,
+        58,
+        63,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 42,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        58,
+        60,
+        63,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 43,
+      "symbol": "F#maj7",
+      "pitches": [
+        54,
+        58,
+        65,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 44,
+      "symbol": "C#maj7",
+      "pitches": [
+        56,
+        60,
+        65,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 45,
+      "symbol": "Ab7",
+      "pitches": [
+        56,
+        60,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 46,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        58,
+        60,
+        61,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 47,
+      "symbol": "Fm7",
+      "pitches": [
+        56,
+        60,
+        65,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 48,
+      "symbol": "Bbm7",
+      "pitches": [
+        56,
+        58,
+        65,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 49,
+      "symbol": "Cm7",
+      "pitches": [
+        54,
+        58,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 50,
+      "symbol": "C#maj7 add9",
+      "pitches": [
+        53,
+        61,
+        63,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 51,
+      "symbol": "F#maj7",
+      "pitches": [
+        53,
+        61,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 52,
+      "symbol": "Bmaj7 (borrowed)",
+      "pitches": [
+        51,
+        59,
+        66,
+        70
+      ],
+      "borrowed": true
+    },
+    {
+      "bar": 53,
+      "symbol": "Cm7",
+      "pitches": [
+        51,
+        60,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 54,
+      "symbol": "C#maj7 add9",
+      "pitches": [
+        51,
+        60,
+        65,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 55,
+      "symbol": "Ebm7",
+      "pitches": [
+        51,
+        58,
+        66,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 56,
+      "symbol": "Ab7",
+      "pitches": [
+        51,
+        56,
+        66,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 57,
+      "symbol": "Cm7",
+      "pitches": [
+        51,
+        58,
+        66,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 58,
+      "symbol": "C#maj7 add9",
+      "pitches": [
+        51,
+        61,
+        65,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 59,
+      "symbol": "F#maj7",
+      "pitches": [
+        54,
+        61,
+        65,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 60,
+      "symbol": "C#maj7",
+      "pitches": [
+        56,
+        61,
+        65,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 61,
+      "symbol": "Cm7",
+      "pitches": [
+        58,
+        63,
+        66,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 62,
+      "symbol": "Ab7 add9",
+      "pitches": [
+        58,
+        66,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 63,
+      "symbol": "F#maj7",
+      "pitches": [
+        58,
+        65,
+        66,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 64,
+      "symbol": "C#maj7",
+      "pitches": [
+        60,
+        65,
+        68,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 65,
+      "symbol": "Ab7",
+      "pitches": [
+        60,
+        66,
+        68,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 66,
+      "symbol": "Ebm7 add9",
+      "pitches": [
+        61,
+        65,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 67,
+      "symbol": "F#maj7",
+      "pitches": [
+        61,
+        65,
+        66,
+        70
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 68,
+      "symbol": "C#maj7",
+      "pitches": [
+        61,
+        65,
+        68,
+        72
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 69,
+      "symbol": "Ebm7",
+      "pitches": [
+        61,
+        66,
+        70,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 70,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        61,
+        70,
+        72,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 71,
+      "symbol": "F#maj7",
+      "pitches": [
+        61,
+        66,
+        70,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 72,
+      "symbol": "C#maj7",
+      "pitches": [
+        61,
+        68,
+        72,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 73,
+      "symbol": "Ab7",
+      "pitches": [
+        66,
+        68,
+        72,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 74,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        61,
+        70,
+        72,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 75,
+      "symbol": "Bmaj7 (borrowed)",
+      "pitches": [
+        59,
+        66,
+        70,
+        75
+      ],
+      "borrowed": true
+    },
+    {
+      "bar": 76,
+      "symbol": "Bbm7",
+      "pitches": [
+        56,
+        65,
+        70,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 77,
+      "symbol": "Ebm7",
+      "pitches": [
+        54,
+        63,
+        70,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 78,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        60,
+        63,
+        70,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 79,
+      "symbol": "F#maj7",
+      "pitches": [
+        54,
+        65,
+        70,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 80,
+      "symbol": "C#maj7",
+      "pitches": [
+        56,
+        65,
+        72,
+        73
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 81,
+      "symbol": "Ab7",
+      "pitches": [
+        56,
+        66,
+        72,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 82,
+      "symbol": "Cm7 add9",
+      "pitches": [
+        58,
+        61,
+        72,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 83,
+      "symbol": "Ebm7",
+      "pitches": [
+        58,
+        61,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 84,
+      "symbol": "Cm7",
+      "pitches": [
+        58,
+        60,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 85,
+      "symbol": "F#maj7",
+      "pitches": [
+        58,
+        61,
+        66,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 86,
+      "symbol": "C#maj7 add9",
+      "pitches": [
+        60,
+        61,
+        63,
+        77
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 87,
+      "symbol": "Ab7",
+      "pitches": [
+        56,
+        60,
+        66,
+        75
+      ],
+      "borrowed": false
+    },
+    {
+      "bar": 88,
+      "symbol": "Cm7",
+      "pitches": [
+        58,
+        60,
+        66,
+        75
+      ],
+      "borrowed": false
+    }
+  ],
+  "guitar_fretboard_grips": [
+    {
+      "bar": 1,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 5,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 9,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 13,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 17,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 21,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 25,
+      "grip": [
+        [
+          3,
+          3,
+          53
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "F#maj7"
+    },
+    {
+      "bar": 29,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          1,
+          65
+        ]
+      ],
+      "chord": "Fm7"
+    },
+    {
+      "bar": 33,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 37,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 41,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 45,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 49,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Cm7"
+    },
+    {
+      "bar": 53,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Cm7"
+    },
+    {
+      "bar": 57,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Cm7"
+    },
+    {
+      "bar": 61,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Cm7"
+    },
+    {
+      "bar": 65,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 69,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 73,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 77,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ebm7"
+    },
+    {
+      "bar": 81,
+      "grip": [
+        [
+          3,
+          1,
+          51
+        ],
+        [
+          4,
+          1,
+          56
+        ],
+        [
+          5,
+          1,
+          60
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "Ab7"
+    },
+    {
+      "bar": 85,
+      "grip": [
+        [
+          3,
+          3,
+          53
+        ],
+        [
+          4,
+          3,
+          58
+        ],
+        [
+          5,
+          2,
+          61
+        ],
+        [
+          6,
+          2,
+          66
+        ]
+      ],
+      "chord": "F#maj7"
+    }
+  ],
+  "guitar_shape_fallbacks": 0,
+  "sections": [
+    {
+      "name": "Signal",
+      "start_bar": 1,
+      "end_bar": 8,
+      "energy": 0.2
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 9,
+      "end_bar": 22,
+      "energy": 0.51
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 23,
+      "end_bar": 32,
+      "energy": 0.66
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 33,
+      "end_bar": 48,
+      "energy": 0.79
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 49,
+      "end_bar": 58,
+      "energy": 0.24
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 59,
+      "end_bar": 68,
+      "energy": 0.65
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 69,
+      "end_bar": 82,
+      "energy": 0.86
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 83,
+      "end_bar": 88,
+      "energy": 0.18
+    }
+  ],
+  "role_notes": {
+    "Harmonic Bed": 366,
+    "Melodic Bass": 288,
+    "Sub Sequence": 128,
+    "Picked Guitar": 196,
+    "Reply Guitar": 0,
+    "Four Note Hook": 95,
+    "Ghost Keys": 20,
+    "Drum Engine": 867
+  },
+  "limitations": [
+    "Rule-based MIDI composition, not audio rendering or a trained music model.",
+    "Guitar fretboard shapes assume standard tuning; actual patch may not support guitar articulations.",
+    "Key signature meta-events cannot express modal key signatures uniquely.",
+    "Velocity response varies by receiving Logic Pro instrument."
+  ]
+}

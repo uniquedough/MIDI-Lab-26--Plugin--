@@ -1,0 +1,230 @@
+{
+  "schema": "midi-lab-effects-4.2",
+  "source": "the_last_evening_in_june_112.mid",
+  "tempo_bpm": 112.0001,
+  "preset": "bossa_afterglow",
+  "character": {
+    "mood": "warm bittersweet dance / gentle bossa",
+    "space": "small, warm room with haze on melodic ornaments",
+    "accent": "dotted-eighth guitar echoes become the rhythmic ornament"
+  },
+  "sync_delays_ms": {
+    "quarter": 535.71,
+    "eighth": 267.86,
+    "dotted_eighth": 401.79,
+    "sixteenth": 133.93,
+    "dotted_quarter": 803.57,
+    "triplet_eighth": 178.57
+  },
+  "tracks": [
+    {
+      "name": "Nylon Thumb",
+      "notes": 146,
+      "drum": false,
+      "channels": [
+        1
+      ],
+      "role": "guitar",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 80–110 Hz; gentle dip at 250–350 Hz if boxy"
+        },
+        {
+          "effect": "Compressor",
+          "settings": "2:1; 2–3 dB gain reduction on peaks"
+        },
+        {
+          "effect": "Stereo Delay",
+          "settings": "Dotted eighth (3/16), 401.79 ms at 112.00 BPM; feedback 15–24%; wet 13–23%; low-cut 280 Hz, high-cut 4.5 kHz; tempo sync ON"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Warm room/plate, 1.2–1.7 s; pre-delay 15–25 ms; send modestly"
+        }
+      ],
+      "advice": "Try delay on a duplicated guitar/pluck track at low wetness, not on every instrument."
+    },
+    {
+      "name": "Nylon Chords",
+      "notes": 852,
+      "drum": false,
+      "channels": [
+        2
+      ],
+      "role": "guitar",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 80–110 Hz; gentle dip at 250–350 Hz if boxy"
+        },
+        {
+          "effect": "Compressor",
+          "settings": "2:1; 2–3 dB gain reduction on peaks"
+        },
+        {
+          "effect": "Stereo Delay",
+          "settings": "Dotted eighth (3/16), 401.79 ms at 112.00 BPM; feedback 15–24%; wet 13–23%; low-cut 280 Hz, high-cut 4.5 kHz; tempo sync ON"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Warm room/plate, 1.2–1.7 s; pre-delay 15–25 ms; send modestly"
+        }
+      ],
+      "advice": "Try delay on a duplicated guitar/pluck track at low wetness, not on every instrument."
+    },
+    {
+      "name": "Upright Bass",
+      "notes": 182,
+      "drum": false,
+      "channels": [
+        3
+      ],
+      "role": "bass",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 30–40 Hz; narrow cut around 200–300 Hz if muddy"
+        },
+        {
+          "effect": "Compressor",
+          "settings": "2.5:1; 3–5 dB gain reduction; preserve initial attack"
+        },
+        {
+          "effect": "Saturation / soft drive",
+          "settings": "Subtle harmonics, level-match bypass; retain rounded fundamental"
+        }
+      ],
+      "advice": "Set instrument patch manually in Logic; recipe is guidance, not an embedded FX preset."
+    },
+    {
+      "name": "Rhodes Voicings",
+      "notes": 262,
+      "drum": false,
+      "channels": [
+        4
+      ],
+      "role": "keys",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 90–130 Hz; keep warm mids"
+        },
+        {
+          "effect": "Chorus / Ensemble",
+          "settings": "Slow rate 0.2–0.5 Hz, subtle wetness"
+        },
+        {
+          "effect": "Tape Delay",
+          "settings": "1/8 (267.86 ms); feedback 8–15%; wet 8–12%; soften top end"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Small warm plate, 1.3–1.8 s"
+        }
+      ],
+      "advice": "Set instrument patch manually in Logic; recipe is guidance, not an embedded FX preset."
+    },
+    {
+      "name": "Vibraphone Motif",
+      "notes": 115,
+      "drum": false,
+      "channels": [
+        5
+      ],
+      "role": "bells",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 180–240 Hz; soften harsh 3–6 kHz only if necessary"
+        },
+        {
+          "effect": "Stereo Delay",
+          "settings": "1/8 or dotted 1/8; feedback 10–18%; wet 9–16%; high-cut 5 kHz"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Soft plate 1.7–2.3 s; 20–30 ms pre-delay"
+        }
+      ],
+      "advice": "Set instrument patch manually in Logic; recipe is guidance, not an embedded FX preset."
+    },
+    {
+      "name": "Muted Guitar Replies",
+      "notes": 28,
+      "drum": false,
+      "channels": [
+        6
+      ],
+      "role": "guitar",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 80–110 Hz; gentle dip at 250–350 Hz if boxy"
+        },
+        {
+          "effect": "Compressor",
+          "settings": "2:1; 2–3 dB gain reduction on peaks"
+        },
+        {
+          "effect": "Stereo Delay",
+          "settings": "Dotted eighth (3/16), 401.79 ms at 112.00 BPM; feedback 15–24%; wet 13–23%; low-cut 280 Hz, high-cut 4.5 kHz; tempo sync ON"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Warm room/plate, 1.2–1.7 s; pre-delay 15–25 ms; send modestly"
+        }
+      ],
+      "advice": "Try delay on a duplicated guitar/pluck track at low wetness, not on every instrument."
+    },
+    {
+      "name": "Cross-stick and Brushes",
+      "notes": 360,
+      "drum": true,
+      "channels": [
+        10
+      ],
+      "role": "light_percussion",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 180–300 Hz; tame sharp highs if needed"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Short room 0.5–0.9 s; very low send; keep groove intimate"
+        }
+      ],
+      "advice": "Set instrument patch manually in Logic; recipe is guidance, not an embedded FX preset."
+    },
+    {
+      "name": "Shaker and Ride",
+      "notes": 624,
+      "drum": true,
+      "channels": [
+        10
+      ],
+      "role": "light_percussion",
+      "insert_and_send_chain": [
+        {
+          "effect": "Channel EQ",
+          "settings": "HPF 180–300 Hz; tame sharp highs if needed"
+        },
+        {
+          "effect": "ChromaVerb (aux send)",
+          "settings": "Short room 0.5–0.9 s; very low send; keep groove intimate"
+        }
+      ],
+      "advice": "Set instrument patch manually in Logic; recipe is guidance, not an embedded FX preset."
+    }
+  ],
+  "mix_guidance": [
+    "Use send reverb to create shared space; keep the kick and bass comparatively dry.",
+    "Start with wet effects off, then raise until just audible; level-match when comparing.",
+    "Automate filter cutoff, send level, or delay feedback at emotional transition points.",
+    "Delay repeats are audio, NOT additional MIDI notes; check that repeats do not clutter the groove.",
+    "MIDI Lab does not install plug-ins or apply effects automatically."
+  ],
+  "logic_notes": "All recommendations can be approximated with stock Logic Pro effects. Exact plug-in names and options may differ on Logic for iPad versus Mac.",
+  "midi_modified": false
+}

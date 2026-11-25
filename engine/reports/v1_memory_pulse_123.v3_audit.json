@@ -1,0 +1,470 @@
+{
+  "file": "v1_memory_pulse_123.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 187.32,
+  "note_count": 2416,
+  "track_count": 7,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Faded Chords",
+      "note_count": 472,
+      "register": [
+        43,
+        64
+      ],
+      "velocity": {
+        "min": 37,
+        "mean": 54.0,
+        "stdev": 6.8,
+        "max": 66
+      },
+      "top_intervals": [
+        [
+          3,
+          115
+        ],
+        [
+          4,
+          110
+        ],
+        [
+          7,
+          62
+        ],
+        [
+          -16,
+          34
+        ],
+        [
+          -3,
+          27
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 472
+      },
+      "avg_note_length_beats": 3.55
+    },
+    {
+      "name": "Minimal Pulse",
+      "note_count": 300,
+      "register": [
+        66,
+        71
+      ],
+      "velocity": {
+        "min": 56,
+        "mean": 58.3,
+        "stdev": 2.0,
+        "max": 60
+      },
+      "top_intervals": [
+        [
+          0,
+          235
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          -2,
+          16
+        ],
+        [
+          -3,
+          16
+        ],
+        [
+          3,
+          16
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 88,
+        "4": 64,
+        "8": 84,
+        "12": 64
+      },
+      "avg_note_length_beats": 0.2
+    },
+    {
+      "name": "Bass Memory",
+      "note_count": 256,
+      "register": [
+        31,
+        50
+      ],
+      "velocity": {
+        "min": 56,
+        "mean": 69.0,
+        "stdev": 8.2,
+        "max": 85
+      },
+      "top_intervals": [
+        [
+          7,
+          68
+        ],
+        [
+          -7,
+          54
+        ],
+        [
+          5,
+          52
+        ],
+        [
+          2,
+          24
+        ],
+        [
+          -9,
+          23
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 84,
+        "4": 16,
+        "6": 20,
+        "8": 32,
+        "10": 52,
+        "12": 16,
+        "13": 36
+      },
+      "avg_note_length_beats": 0.47
+    },
+    {
+      "name": "Clipped Rhythm",
+      "note_count": 235,
+      "register": [
+        55,
+        69
+      ],
+      "velocity": {
+        "min": 63,
+        "mean": 64.5,
+        "stdev": 2.3,
+        "max": 68
+      },
+      "top_intervals": [
+        [
+          4,
+          67
+        ],
+        [
+          3,
+          61
+        ],
+        [
+          -7,
+          31
+        ],
+        [
+          -3,
+          26
+        ],
+        [
+          -6,
+          18
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "1": 36,
+        "2": 36,
+        "4": 36,
+        "5": 18,
+        "6": 18,
+        "8": 13,
+        "9": 26,
+        "10": 13,
+        "12": 26,
+        "13": 13
+      },
+      "avg_note_length_beats": 0.158
+    },
+    {
+      "name": "Memory Motif",
+      "note_count": 108,
+      "register": [
+        62,
+        86
+      ],
+      "velocity": {
+        "min": 60,
+        "mean": 61.3,
+        "stdev": 2.2,
+        "max": 65
+      },
+      "top_intervals": [
+        [
+          -3,
+          28
+        ],
+        [
+          -5,
+          25
+        ],
+        [
+          -2,
+          24
+        ],
+        [
+          10,
+          18
+        ],
+        [
+          8,
+          5
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "3": 28,
+        "7": 28,
+        "10": 28,
+        "13": 24
+      },
+      "avg_note_length_beats": 0.405
+    },
+    {
+      "name": "Ghost Fragments",
+      "note_count": 20,
+      "register": [
+        61,
+        78
+      ],
+      "velocity": {
+        "min": 37,
+        "mean": 40,
+        "stdev": 3.0,
+        "max": 43
+      },
+      "top_intervals": [
+        [
+          -12,
+          10
+        ],
+        [
+          12,
+          6
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "7": 6,
+        "8": 4,
+        "14": 5,
+        "15": 5
+      },
+      "avg_note_length_beats": 0.099
+    },
+    {
+      "name": "Drum Grid",
+      "note_count": 1025,
+      "register": [
+        36,
+        46
+      ],
+      "velocity": {
+        "min": 34,
+        "mean": 58.6,
+        "stdev": 19.3,
+        "max": 90
+      },
+      "top_intervals": [
+        [
+          0,
+          240
+        ],
+        [
+          6,
+          172
+        ],
+        [
+          4,
+          172
+        ],
+        [
+          -4,
+          167
+        ],
+        [
+          -6,
+          162
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 152,
+        "2": 84,
+        "3": 26,
+        "4": 156,
+        "6": 88,
+        "8": 138,
+        "10": 84,
+        "11": 31,
+        "12": 160,
+        "13": 5,
+        "14": 93,
+        "15": 8
+      },
+      "avg_note_length_beats": 0.052
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "INTRO - faded signal",
+      "start_bar": 1.0,
+      "end_bar": 12.0,
+      "notes_per_bar": 9.25,
+      "active_roles": 4,
+      "part_counts": {
+        "Faded Chords": 52,
+        "Minimal Pulse": 9,
+        "Bass Memory": 1,
+        "Clipped Rhythm": 0,
+        "Memory Motif": 0,
+        "Ghost Fragments": 0,
+        "Drum Grid": 49
+      }
+    },
+    {
+      "name": "A - pulse arrives",
+      "start_bar": 13.0,
+      "end_bar": 32.0,
+      "notes_per_bar": 26.2,
+      "active_roles": 7,
+      "part_counts": {
+        "Faded Chords": 100,
+        "Minimal Pulse": 79,
+        "Bass Memory": 40,
+        "Clipped Rhythm": 30,
+        "Memory Motif": 30,
+        "Ghost Fragments": 4,
+        "Drum Grid": 241
+      }
+    },
+    {
+      "name": "A2 - clipped rhythm",
+      "start_bar": 33.0,
+      "end_bar": 52.0,
+      "notes_per_bar": 30.3,
+      "active_roles": 6,
+      "part_counts": {
+        "Faded Chords": 100,
+        "Minimal Pulse": 80,
+        "Bass Memory": 79,
+        "Clipped Rhythm": 75,
+        "Memory Motif": 0,
+        "Ghost Fragments": 6,
+        "Drum Grid": 266
+      }
+    },
+    {
+      "name": "B - warm memory",
+      "start_bar": 53.0,
+      "end_bar": 68.0,
+      "notes_per_bar": 26.62,
+      "active_roles": 7,
+      "part_counts": {
+        "Faded Chords": 80,
+        "Minimal Pulse": 49,
+        "Bass Memory": 49,
+        "Clipped Rhythm": 46,
+        "Memory Motif": 31,
+        "Ghost Fragments": 2,
+        "Drum Grid": 169
+      }
+    },
+    {
+      "name": "CLIMAX - blurred motor",
+      "start_bar": 69.0,
+      "end_bar": 84.0,
+      "notes_per_bar": 34.0,
+      "active_roles": 7,
+      "part_counts": {
+        "Faded Chords": 80,
+        "Minimal Pulse": 63,
+        "Bass Memory": 64,
+        "Clipped Rhythm": 60,
+        "Memory Motif": 47,
+        "Ghost Fragments": 8,
+        "Drum Grid": 222
+      }
+    },
+    {
+      "name": "OUTRO - tape residue",
+      "start_bar": 85.0,
+      "end_bar": 96.0,
+      "notes_per_bar": 17.08,
+      "active_roles": 5,
+      "part_counts": {
+        "Faded Chords": 60,
+        "Minimal Pulse": 20,
+        "Bass Memory": 23,
+        "Clipped Rhythm": 24,
+        "Memory Motif": 0,
+        "Ghost Fragments": 0,
+        "Drum Grid": 78
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": 0.441,
+  "most_common_melodic_contours": [
+    {
+      "contour": [
+        -5,
+        -3,
+        -2
+      ],
+      "occurrences": 21
+    },
+    {
+      "contour": [
+        -3,
+        -2,
+        10
+      ],
+      "occurrences": 18
+    },
+    {
+      "contour": [
+        -2,
+        10,
+        -5
+      ],
+      "occurrences": 18
+    },
+    {
+      "contour": [
+        10,
+        -5,
+        -3
+      ],
+      "occurrences": 18
+    }
+  ],
+  "diagnostics": [],
+  "quality_caveat": "These are structural features; ear-based critique is still required."
+}

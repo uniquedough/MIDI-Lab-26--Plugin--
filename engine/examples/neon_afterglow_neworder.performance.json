@@ -1,0 +1,91 @@
+{
+  "input": "/mnt/data/MIDI_Lab_3_0/examples/neon_afterglow_neworder.mid",
+  "output": "/mnt/data/MIDI_Lab_3_0/examples/neon_afterglow_neworder.mid",
+  "feel": "neworder",
+  "seed": 1989,
+  "notes": 2695,
+  "program_changes_removed": 0,
+  "bank_selects_removed": 0,
+  "tracks": {
+    "Harmonic Bed": {
+      "notes": 466,
+      "instruments": {
+        "analog_synth": 466
+      },
+      "velocity_min": 68,
+      "velocity_max": 79,
+      "velocity_average": 73.3
+    },
+    "Melodic Bass": {
+      "notes": 385,
+      "instruments": {
+        "picked_bass": 385
+      },
+      "velocity_min": 65,
+      "velocity_max": 106,
+      "velocity_average": 84.3
+    },
+    "Sub Sequence": {
+      "notes": 168,
+      "instruments": {
+        "sub_synth": 168
+      },
+      "velocity_min": 79,
+      "velocity_max": 87,
+      "velocity_average": 82.8
+    },
+    "Picked Guitar": {
+      "notes": 253,
+      "instruments": {
+        "ringing_guitar": 253
+      },
+      "velocity_min": 61,
+      "velocity_max": 80,
+      "velocity_average": 71.3
+    },
+    "Reply Guitar": {
+      "notes": 14,
+      "instruments": {
+        "ringing_guitar": 14
+      },
+      "velocity_min": 63,
+      "velocity_max": 71,
+      "velocity_average": 66.9
+    },
+    "Four Note Hook": {
+      "notes": 121,
+      "instruments": {
+        "lead_synth": 121
+      },
+      "velocity_min": 63,
+      "velocity_max": 80,
+      "velocity_average": 72.2
+    },
+    "Ghost Keys": {
+      "notes": 25,
+      "instruments": {
+        "analog_synth": 25
+      },
+      "velocity_min": 64,
+      "velocity_max": 69,
+      "velocity_average": 65.8
+    },
+    "Drum Engine": {
+      "notes": 1263,
+      "instruments": {
+        "drum_machine": 1263
+      },
+      "velocity_min": 27,
+      "velocity_max": 105,
+      "velocity_average": 69.0
+    }
+  },
+  "min_duration_ticks": 34,
+  "check": {
+    "note_ons": 2695,
+    "note_offs": 2695,
+    "program_changes": 0,
+    "bank_selects": 0,
+    "passed": true
+  }
+}

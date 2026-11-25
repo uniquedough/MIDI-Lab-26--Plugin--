@@ -1,0 +1,398 @@
+{
+  "file": "fractured_clockwork_128_base_v4.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 240.0,
+  "note_count": 1949,
+  "track_count": 6,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Immutable Pulse",
+      "note_count": 512,
+      "register": [
+        54,
+        54
+      ],
+      "velocity": {
+        "min": 66,
+        "mean": 70.8,
+        "stdev": 4.3,
+        "max": 76
+      },
+      "top_intervals": [
+        [
+          0,
+          511
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 128,
+        "6": 128,
+        "8": 128,
+        "14": 128
+      },
+      "avg_note_length_beats": 0.372
+    },
+    {
+      "name": "Loop Drums",
+      "note_count": 1024,
+      "register": [
+        36,
+        42
+      ],
+      "velocity": {
+        "min": 39,
+        "mean": 60.2,
+        "stdev": 19.2,
+        "max": 87
+      },
+      "top_intervals": [
+        [
+          6,
+          256
+        ],
+        [
+          -4,
+          256
+        ],
+        [
+          4,
+          256
+        ],
+        [
+          -6,
+          255
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 128,
+        "2": 128,
+        "4": 128,
+        "6": 128,
+        "8": 128,
+        "10": 128,
+        "12": 128,
+        "14": 128
+      },
+      "avg_note_length_beats": 0.078
+    },
+    {
+      "name": "Memory Plucks",
+      "note_count": 128,
+      "register": [
+        66,
+        85
+      ],
+      "velocity": {
+        "min": 36,
+        "mean": 52.9,
+        "stdev": 6.5,
+        "max": 64
+      },
+      "top_intervals": [
+        [
+          -1,
+          32
+        ],
+        [
+          -2,
+          32
+        ],
+        [
+          -4,
+          26
+        ],
+        [
+          7,
+          25
+        ],
+        [
+          19,
+          6
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "2": 7,
+        "3": 13,
+        "4": 12,
+        "6": 14,
+        "7": 12,
+        "8": 6,
+        "10": 14,
+        "11": 12,
+        "12": 6,
+        "13": 7,
+        "14": 13,
+        "15": 12
+      },
+      "avg_note_length_beats": 0.438
+    },
+    {
+      "name": "Slow Upper Voices",
+      "note_count": 89,
+      "register": [
+        69,
+        80
+      ],
+      "velocity": {
+        "min": 38,
+        "mean": 50.1,
+        "stdev": 5.8,
+        "max": 61
+      },
+      "top_intervals": [
+        [
+          -11,
+          23
+        ],
+        [
+          4,
+          19
+        ],
+        [
+          7,
+          19
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          -2,
+          6
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 89
+      },
+      "avg_note_length_beats": 14.8
+    },
+    {
+      "name": "Expressive Bass",
+      "note_count": 153,
+      "register": [
+        54,
+        61
+      ],
+      "velocity": {
+        "min": 49,
+        "mean": 68.3,
+        "stdev": 13.0,
+        "max": 92
+      },
+      "top_intervals": [
+        [
+          7,
+          51
+        ],
+        [
+          -2,
+          51
+        ],
+        [
+          -5,
+          50
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 51,
+        "10": 51,
+        "14": 51
+      },
+      "avg_note_length_beats": 0.486
+    },
+    {
+      "name": "Companion Guitar",
+      "note_count": 43,
+      "register": [
+        81,
+        81
+      ],
+      "velocity": {
+        "min": 36,
+        "mean": 48.9,
+        "stdev": 6.2,
+        "max": 59
+      },
+      "top_intervals": [
+        [
+          0,
+          42
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "1": 43
+      },
+      "avg_note_length_beats": 0.265
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "Signal",
+      "start_bar": 1.0,
+      "end_bar": 12.0,
+      "notes_per_bar": 15.58,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 48,
+        "Loop Drums": 96,
+        "Memory Plucks": 12,
+        "Slow Upper Voices": 9,
+        "Expressive Bass": 18,
+        "Companion Guitar": 4
+      }
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 13.0,
+      "end_bar": 34.0,
+      "notes_per_bar": 15.77,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 88,
+        "Loop Drums": 176,
+        "Memory Plucks": 24,
+        "Slow Upper Voices": 18,
+        "Expressive Bass": 33,
+        "Companion Guitar": 8
+      }
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 35.0,
+      "end_bar": 50.0,
+      "notes_per_bar": 15.56,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 64,
+        "Loop Drums": 128,
+        "Memory Plucks": 16,
+        "Slow Upper Voices": 12,
+        "Expressive Bass": 24,
+        "Companion Guitar": 5
+      }
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 51.0,
+      "end_bar": 74.0,
+      "notes_per_bar": 13.96,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 96,
+        "Loop Drums": 192,
+        "Memory Plucks": 24,
+        "Slow Upper Voices": 12,
+        "Expressive Bass": 3,
+        "Companion Guitar": 8
+      }
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 75.0,
+      "end_bar": 88.0,
+      "notes_per_bar": 14.86,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 56,
+        "Loop Drums": 112,
+        "Memory Plucks": 12,
+        "Slow Upper Voices": 8,
+        "Expressive Bass": 15,
+        "Companion Guitar": 5
+      }
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 89.0,
+      "end_bar": 104.0,
+      "notes_per_bar": 15.56,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 64,
+        "Loop Drums": 128,
+        "Memory Plucks": 16,
+        "Slow Upper Voices": 12,
+        "Expressive Bass": 24,
+        "Companion Guitar": 5
+      }
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 105.0,
+      "end_bar": 124.0,
+      "notes_per_bar": 15.6,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 80,
+        "Loop Drums": 160,
+        "Memory Plucks": 20,
+        "Slow Upper Voices": 15,
+        "Expressive Bass": 30,
+        "Companion Guitar": 7
+      }
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 125.0,
+      "end_bar": 128.0,
+      "notes_per_bar": 15.5,
+      "active_roles": 6,
+      "part_counts": {
+        "Immutable Pulse": 16,
+        "Loop Drums": 32,
+        "Memory Plucks": 4,
+        "Slow Upper Voices": 3,
+        "Expressive Bass": 6,
+        "Companion Guitar": 1
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": 0.333,
+  "most_common_melodic_contours": [
+    {
+      "contour": [
+        7,
+        -2,
+        -5
+      ],
+      "occurrences": 50
+    },
+    {
+      "contour": [
+        -2,
+        -5,
+        7
+      ],
+      "occurrences": 50
+    },
+    {
+      "contour": [
+        -5,
+        7,
+        -2
+      ],
+      "occurrences": 50
+    }
+  ],
+  "diagnostics": [
+    "Section density changes little; consider subtracting a role.",
+    "Final return not denser than first verse (may be intentional)."
+  ],
+  "quality_caveat": "These are structural features; ear-based critique is still required.",
+  "declared_key_mode": "F# minor",
+  "declared_drum_engine": "minimal",
+  "borrowed_chord_occurrences": 0,
+  "motif_operations": {},
+  "fretboard_shape_fallbacks": 0
+}

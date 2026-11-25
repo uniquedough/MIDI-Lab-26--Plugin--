@@ -1,0 +1,494 @@
+{
+  "file": "v1_lcd_interlock_93.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 185.81,
+  "note_count": 2813,
+  "track_count": 7,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Warm Chords",
+      "note_count": 351,
+      "register": [
+        45,
+        71
+      ],
+      "velocity": {
+        "min": 42,
+        "mean": 67.2,
+        "stdev": 8.2,
+        "max": 84
+      },
+      "top_intervals": [
+        [
+          3,
+          67
+        ],
+        [
+          7,
+          55
+        ],
+        [
+          4,
+          50
+        ],
+        [
+          5,
+          26
+        ],
+        [
+          2,
+          22
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 344,
+        "13": 7
+      },
+      "avg_note_length_beats": 3.565
+    },
+    {
+      "name": "Pulse Synth",
+      "note_count": 495,
+      "register": [
+        68,
+        73
+      ],
+      "velocity": {
+        "min": 48,
+        "mean": 58.6,
+        "stdev": 5.7,
+        "max": 74
+      },
+      "top_intervals": [
+        [
+          0,
+          420
+        ],
+        [
+          -3,
+          19
+        ],
+        [
+          3,
+          19
+        ],
+        [
+          2,
+          18
+        ],
+        [
+          -2,
+          18
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 71,
+        "2": 58,
+        "3": 2,
+        "4": 64,
+        "5": 3,
+        "6": 58,
+        "7": 1,
+        "8": 68,
+        "9": 1,
+        "10": 58,
+        "11": 3,
+        "12": 56,
+        "13": 2,
+        "14": 50
+      },
+      "avg_note_length_beats": 0.238
+    },
+    {
+      "name": "Bass Motor",
+      "note_count": 316,
+      "register": [
+        33,
+        56
+      ],
+      "velocity": {
+        "min": 43,
+        "mean": 76.1,
+        "stdev": 8.1,
+        "max": 97
+      },
+      "top_intervals": [
+        [
+          5,
+          50
+        ],
+        [
+          7,
+          42
+        ],
+        [
+          4,
+          37
+        ],
+        [
+          -5,
+          25
+        ],
+        [
+          0,
+          23
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 68,
+        "3": 28,
+        "5": 16,
+        "6": 40,
+        "8": 36,
+        "9": 16,
+        "10": 4,
+        "11": 24,
+        "12": 16,
+        "13": 28,
+        "14": 28,
+        "15": 12
+      },
+      "avg_note_length_beats": 0.48
+    },
+    {
+      "name": "Interlock L",
+      "note_count": 355,
+      "register": [
+        52,
+        71
+      ],
+      "velocity": {
+        "min": 61,
+        "mean": 70.7,
+        "stdev": 5.1,
+        "max": 85
+      },
+      "top_intervals": [
+        [
+          5,
+          79
+        ],
+        [
+          3,
+          57
+        ],
+        [
+          4,
+          54
+        ],
+        [
+          -5,
+          39
+        ],
+        [
+          -10,
+          23
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "2": 64,
+        "4": 56,
+        "5": 8,
+        "7": 60,
+        "9": 52,
+        "10": 7,
+        "12": 58,
+        "14": 50
+      },
+      "avg_note_length_beats": 0.31
+    },
+    {
+      "name": "Interlock R",
+      "note_count": 188,
+      "register": [
+        47,
+        68
+      ],
+      "velocity": {
+        "min": 55,
+        "mean": 65.1,
+        "stdev": 5.7,
+        "max": 81
+      },
+      "top_intervals": [
+        [
+          5,
+          44
+        ],
+        [
+          -5,
+          30
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          7,
+          12
+        ],
+        [
+          -9,
+          12
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 44,
+        "3": 12,
+        "4": 12,
+        "6": 44,
+        "8": 12,
+        "11": 36,
+        "13": 12,
+        "14": 16
+      },
+      "avg_note_length_beats": 0.344
+    },
+    {
+      "name": "Lead Mutation",
+      "note_count": 176,
+      "register": [
+        66,
+        85
+      ],
+      "velocity": {
+        "min": 62,
+        "mean": 71.0,
+        "stdev": 5.8,
+        "max": 88
+      },
+      "top_intervals": [
+        [
+          -5,
+          52
+        ],
+        [
+          10,
+          29
+        ],
+        [
+          2,
+          24
+        ],
+        [
+          -2,
+          22
+        ],
+        [
+          -7,
+          15
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "1": 32,
+        "2": 4,
+        "3": 32,
+        "4": 4,
+        "6": 32,
+        "7": 4,
+        "9": 32,
+        "10": 4,
+        "13": 28,
+        "14": 4
+      },
+      "avg_note_length_beats": 0.378
+    },
+    {
+      "name": "Drum Engine",
+      "note_count": 932,
+      "register": [
+        36,
+        46
+      ],
+      "velocity": {
+        "min": 35,
+        "mean": 66.5,
+        "stdev": 19.8,
+        "max": 101
+      },
+      "top_intervals": [
+        [
+          -6,
+          230
+        ],
+        [
+          0,
+          188
+        ],
+        [
+          6,
+          155
+        ],
+        [
+          4,
+          137
+        ],
+        [
+          2,
+          88
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 120,
+        "2": 66,
+        "3": 26,
+        "4": 165,
+        "6": 68,
+        "7": 10,
+        "8": 116,
+        "10": 66,
+        "11": 36,
+        "12": 168,
+        "14": 81,
+        "15": 10
+      },
+      "avg_note_length_beats": 0.061
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "INTRO - cold circuitry",
+      "start_bar": 1.0,
+      "end_bar": 8.0,
+      "notes_per_bar": 15.38,
+      "active_roles": 4,
+      "part_counts": {
+        "Warm Chords": 32,
+        "Pulse Synth": 42,
+        "Bass Motor": 8,
+        "Interlock L": 0,
+        "Interlock R": 0,
+        "Lead Mutation": 0,
+        "Drum Engine": 41
+      }
+    },
+    {
+      "name": "A - engine locks",
+      "start_bar": 9.0,
+      "end_bar": 24.0,
+      "notes_per_bar": 38.31,
+      "active_roles": 6,
+      "part_counts": {
+        "Warm Chords": 82,
+        "Pulse Synth": 124,
+        "Bass Motor": 64,
+        "Interlock L": 94,
+        "Interlock R": 24,
+        "Lead Mutation": 0,
+        "Drum Engine": 225
+      }
+    },
+    {
+      "name": "A2 - friction / mutation",
+      "start_bar": 25.0,
+      "end_bar": 40.0,
+      "notes_per_bar": 49.75,
+      "active_roles": 7,
+      "part_counts": {
+        "Warm Chords": 83,
+        "Pulse Synth": 124,
+        "Bass Motor": 96,
+        "Interlock L": 94,
+        "Interlock R": 64,
+        "Lead Mutation": 78,
+        "Drum Engine": 257
+      }
+    },
+    {
+      "name": "B - warm opening",
+      "start_bar": 41.0,
+      "end_bar": 52.0,
+      "notes_per_bar": 40.17,
+      "active_roles": 7,
+      "part_counts": {
+        "Warm Chords": 60,
+        "Pulse Synth": 78,
+        "Bass Motor": 49,
+        "Interlock L": 71,
+        "Interlock R": 36,
+        "Lead Mutation": 39,
+        "Drum Engine": 149
+      }
+    },
+    {
+      "name": "CLIMAX - machine bloom",
+      "start_bar": 53.0,
+      "end_bar": 64.0,
+      "notes_per_bar": 51.25,
+      "active_roles": 7,
+      "part_counts": {
+        "Warm Chords": 62,
+        "Pulse Synth": 92,
+        "Bass Motor": 83,
+        "Interlock L": 70,
+        "Interlock R": 48,
+        "Lead Mutation": 59,
+        "Drum Engine": 201
+      }
+    },
+    {
+      "name": "OUTRO - lights left on",
+      "start_bar": 65.0,
+      "end_bar": 72.0,
+      "notes_per_bar": 23.0,
+      "active_roles": 6,
+      "part_counts": {
+        "Warm Chords": 32,
+        "Pulse Synth": 35,
+        "Bass Motor": 16,
+        "Interlock L": 26,
+        "Interlock R": 16,
+        "Lead Mutation": 0,
+        "Drum Engine": 59
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": 0.418,
+  "most_common_melodic_contours": [
+    {
+      "contour": [
+        -5,
+        2,
+        -5
+      ],
+      "occurrences": 24
+    },
+    {
+      "contour": [
+        -2,
+        10,
+        -5
+      ],
+      "occurrences": 20
+    },
+    {
+      "contour": [
+        2,
+        -5,
+        -2
+      ],
+      "occurrences": 18
+    },
+    {
+      "contour": [
+        -5,
+        -2,
+        10
+      ],
+      "occurrences": 17
+    }
+  ],
+  "diagnostics": [],
+  "quality_caveat": "These are structural features; ear-based critique is still required."
+}

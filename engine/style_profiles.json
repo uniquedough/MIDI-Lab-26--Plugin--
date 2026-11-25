@@ -1,0 +1,592 @@
+{
+  "version": "2.4",
+  "purpose": "Original composition behavior presets. Do not transcribe or reproduce distinctive copyrighted melodies, lyrics, or recordings.",
+  "profiles": {
+    "drums_solo_abysmal": {
+      "reference": "The Drums — Abysmal Thoughts (2017)",
+      "core": "Bright guitar figures with privately sad harmony, crisp post-punk momentum, bass that sings between vocal lines; experimental details are interruptions, not wallpaper.",
+      "engine": {
+        "bass_motion": 8,
+        "drum_mutation": 5,
+        "guitar_activity": 9,
+        "synthetic_artifacts": 3,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 3
+      },
+      "avoid": [
+        "generic four-chord surf-rock stomp",
+        "nonstop bright guitar strumming",
+        "copying a specific album hook"
+      ]
+    },
+    "drums_solo_brutalism": {
+      "reference": "The Drums — Brutalism (2019)",
+      "core": "Snappy electronically inflected percussion, clipped guitar/synth counterlines, urgent melodic bass, deceptively happy surfaces with darker borrowed chord color.",
+      "engine": {
+        "bass_motion": 9,
+        "drum_mutation": 8,
+        "guitar_activity": 6,
+        "synthetic_artifacts": 8,
+        "hook_density": 7,
+        "arrangement_growth": 8,
+        "harmonic_borrow": 5
+      },
+      "avoid": [
+        "early-era surf-pop pastiche",
+        "huge generic EDM build",
+        "constant glitching"
+      ]
+    },
+    "drums_solo_jonny": {
+      "reference": "The Drums — Jonny (2023)",
+      "core": "Guitar/bass-led emotional economy, bright nervous momentum, intimate repeated motifs, reduced synthetic ornament and contrast through omission.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 3,
+        "guitar_activity": 9,
+        "synthetic_artifacts": 2,
+        "hook_density": 8,
+        "arrangement_growth": 5,
+        "harmonic_borrow": 4
+      },
+      "avoid": [
+        "instrumental overbuilding",
+        "copying real vocal lines",
+        "automatic dance remix aesthetic"
+      ]
+    },
+    "memory_haze": {
+      "reference": "Boards-of-Canada-adjacent nostalgia/unease",
+      "core": "Common tones, suspended endings, slow harmonic breathing, warmth with small wrong notes, imperfect memory repetitions.",
+      "engine": {
+        "bass_motion": 4,
+        "drum_mutation": 4,
+        "guitar_activity": 3,
+        "synthetic_artifacts": 8,
+        "hook_density": 5,
+        "arrangement_growth": 4,
+        "harmonic_borrow": 9
+      }
+    },
+    "lcd_motor": {
+      "reference": "LCD-Soundsystem-adjacent motorik/accumulation",
+      "core": "Rigid hypnotic pulse, additive entrances, earned lift, minimal ostinati that shift through context rather than complexity.",
+      "engine": {
+        "bass_motion": 6,
+        "drum_mutation": 3,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 4,
+        "hook_density": 4,
+        "arrangement_growth": 10,
+        "harmonic_borrow": 2
+      }
+    },
+    "idm_asymmetric": {
+      "reference": "Aphex-Twin-adjacent organized rhythmic mutations",
+      "core": "Phrase-cell variations, 3+3+2 accents, rare half-bar displacements, controlled organized breaks while an anchor remains.",
+      "engine": {
+        "bass_motion": 6,
+        "drum_mutation": 10,
+        "guitar_activity": 3,
+        "synthetic_artifacts": 9,
+        "hook_density": 6,
+        "arrangement_growth": 7,
+        "harmonic_borrow": 6
+      }
+    },
+    "garage_interlock": {
+      "reference": "The-Strokes-adjacent interlocking guitar roles",
+      "core": "Economical contrasting two-part hooks, clipped note lengths, rhythmic handoffs, clean articulated register separation.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 2,
+        "guitar_activity": 10,
+        "synthetic_artifacts": 1,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 2
+      }
+    },
+    "yl_tender_nocturne": {
+      "reference": "Yo La Tengo — And Then Nothing Turned Itself Inside-Out / Summer Sun, quiet nocturnal mode",
+      "core": "Softly interlocking guitar/organ/piano tones, restrained bass motion, slow intimate rhythmic breathing, simple tender motifs, suspended harmony, and silence; quiet music with unresolved emotional undertow.",
+      "engine": {
+        "bass_motion": 4,
+        "drum_mutation": 2,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 3,
+        "hook_density": 4,
+        "arrangement_growth": 3,
+        "harmonic_borrow": 7
+      },
+      "composition_rules": [
+        "Use two- or three-chord nonfunctional cycles with small voice-leading shifts",
+        "Keep lead phrases short and allow whole-bar gaps",
+        "Bass supports tender counter-motion rather than constant roots",
+        "Contrast comes from note length and silence, not more layers",
+        "Sparse brushes/soft backbeat with human-sounding velocities"
+      ],
+      "suggested_roles": {
+        "harmony": "yl_tender_nocturne",
+        "melody": "yl_tender_nocturne",
+        "bass": "yl_tender_nocturne",
+        "rhythm": "yl_tender_nocturne",
+        "arrangement": "yl_tender_nocturne"
+      },
+      "avoid": [
+        "endless grand piano arpeggios",
+        "dramatic crescendo in every chorus",
+        "mistaking lo-fi for missing musical detail"
+      ]
+    },
+    "yl_motorik_fuzz": {
+      "reference": "Yo La Tengo — I Can Hear the Heart Beating as One / This Stupid World motorik rock",
+      "core": "Unwavering live-band pulse, melodic repetitive bass, economical guitar figures, small modal chord loops and guitar noise that accumulates over time without losing the groove.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 3,
+        "guitar_activity": 8,
+        "synthetic_artifacts": 3,
+        "hook_density": 5,
+        "arrangement_growth": 9,
+        "harmonic_borrow": 4
+      },
+      "composition_rules": [
+        "One compelling 1–2 bar bass motif anchors whole sections",
+        "8–16 bar repetitions evolve through one changed voice at a time",
+        "Drums maintain understated snare/kick stability",
+        "Fuzz/noise represented as sustained pedal notes and clustered guitar-register phrases; tone requires external plugins",
+        "Use imperfect live phrasing, avoid big EDM drops"
+      ],
+      "avoid": [
+        "overactive fill-per-bar drums",
+        "giant generic distorted power-chord choruses",
+        "constant harmonic changes"
+      ]
+    },
+    "yl_kaleidoscope_pop": {
+      "reference": "Yo La Tengo — I Can Hear the Heart Beating as One melodic indie-pop spectrum",
+      "core": "Warm modest melodies, elastic guitar/bass interplay, gentle organ coloration, mostly simple chords with one memorable lifted or borrowed tone, playfulness beside yearning.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 3,
+        "guitar_activity": 8,
+        "synthetic_artifacts": 4,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 6
+      },
+      "composition_rules": [
+        "Preserve concise singable melodic cells rather than nonstop notes",
+        "Introduce a counter-guitar only in gaps of the main melody",
+        "Use chord inversions and sustained common tones",
+        "Alternate fragile verse with surprisingly buoyant refrain"
+      ],
+      "avoid": [
+        "copying real songs",
+        "overly polished adult-contemporary chord pads",
+        "generic surf-rock imitation"
+      ]
+    },
+    "yl_drone_feedback": {
+      "reference": "Yo La Tengo — Painful / This Stupid World extended drone/noise and slow transformation",
+      "core": "Patient bass ostinati, held modal centers, friction between gentle repeated figures and abrasive harmonic clusters, imperfect transitions and long-form tension.",
+      "engine": {
+        "bass_motion": 4,
+        "drum_mutation": 3,
+        "guitar_activity": 8,
+        "synthetic_artifacts": 9,
+        "hook_density": 3,
+        "arrangement_growth": 10,
+        "harmonic_borrow": 8
+      },
+      "composition_rules": [
+        "Create 1–3 note tonal anchors and deliberately retain them",
+        "Add upper-neighbor clusters in sparse registers for dissonance",
+        "Allow 16+ bars without chord changes if other events evolve",
+        "Distortion/feedback cannot be literally stored in MIDI: assign sustained notes to external guitar effects or synths",
+        "Reintroduce original clean motif after dense noise"
+      ],
+      "avoid": [
+        "random notes used as a substitute for feedback",
+        "rapid virtuosic solos",
+        "relentless drum fills"
+      ]
+    },
+    "pink_bedroom_2step": {
+      "reference": "Early compact garage-pop / wistful bedroom two-step",
+      "core": "Wistful airy short motifs; swung kick placement and broken 2-step snare, delicate R&B keyboard voicings, small edits and short melodic bass punctuations.",
+      "engine": {
+        "bass_motion": 6,
+        "drum_mutation": 8,
+        "guitar_activity": 4,
+        "synthetic_artifacts": 5,
+        "hook_density": 8,
+        "arrangement_growth": 5,
+        "harmonic_borrow": 3
+      },
+      "avoid": [
+        "avoid four-on-the-floor for the entire composition",
+        "leave room for whispered vocals",
+        "no quoted or reconstructed samples"
+      ],
+      "musical_guidance": {
+        "harmony": "Use evolving soft-color piano/organ voicings; allow bittersweet modal shifts and gentle chromatic voice leading.",
+        "rhythm": "Favor shuffled/offset two-step snare, shuffled hats, kick omission and syncopated percussion; for liquid jungle use rolling break cells.",
+        "bass": "Warm rounded sub and octave/anticipation gestures; keep the bassline independent.",
+        "melody": "Four-to-six note original motifs, intimate vocal range and contour, repeated with one altered ending.",
+        "arrangement": "Compact form, frequent subtractive transitions and significant vocal-space; keep loop identity."
+      }
+    },
+    "pink_liquid_jungle": {
+      "reference": "Liquid DnB and melodic jungle-pop crossover",
+      "core": "Rolling breakbeat-inspired rhythms, fast but feather-light motifs, nimble sub-bass movement, short bright melodic fragments and soft major-minor ambiguity.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 10,
+        "guitar_activity": 3,
+        "synthetic_artifacts": 7,
+        "hook_density": 7,
+        "arrangement_growth": 7,
+        "harmonic_borrow": 4
+      },
+      "avoid": [
+        "faster break logic may require additional MIDI drum arranging",
+        "keep bass rhythm distinct from snare",
+        "avoid indiscriminate breakbeat fills"
+      ],
+      "musical_guidance": {
+        "harmony": "Use evolving soft-color piano/organ voicings; allow bittersweet modal shifts and gentle chromatic voice leading.",
+        "rhythm": "Favor shuffled/offset two-step snare, shuffled hats, kick omission and syncopated percussion; for liquid jungle use rolling break cells.",
+        "bass": "Warm rounded sub and octave/anticipation gestures; keep the bassline independent.",
+        "melody": "Four-to-six note original motifs, intimate vocal range and contour, repeated with one altered ending.",
+        "arrangement": "Compact form, frequent subtractive transitions and significant vocal-space; keep loop identity."
+      }
+    },
+    "pink_y2k_eurodance": {
+      "reference": "Y2K Eurodance / UK club nostalgia",
+      "core": "Piano and glossy synth stabs, hopeful melancholy, insistent club pulse with garage syncopations, rubbery bass responses, concise earworm lead.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 7,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 6,
+        "hook_density": 9,
+        "arrangement_growth": 8,
+        "harmonic_borrow": 3
+      },
+      "avoid": [
+        "avoid huge generic EDM drops",
+        "keep melodic contour short and personal",
+        "do not saturate the vocal range"
+      ],
+      "musical_guidance": {
+        "harmony": "Use evolving soft-color piano/organ voicings; allow bittersweet modal shifts and gentle chromatic voice leading.",
+        "rhythm": "Favor shuffled/offset two-step snare, shuffled hats, kick omission and syncopated percussion; for liquid jungle use rolling break cells.",
+        "bass": "Warm rounded sub and octave/anticipation gestures; keep the bassline independent.",
+        "melody": "Four-to-six note original motifs, intimate vocal range and contour, repeated with one altered ending.",
+        "arrangement": "Compact form, frequent subtractive transitions and significant vocal-space; keep loop identity."
+      }
+    },
+    "pink_fancy_club": {
+      "reference": "Club-pop collage, 90s/2000s UK dance revival",
+      "core": "Restless chopped-feeling original motifs, bright sampled-texture roles to be sound-designed in DAW, crisp percussion, dramatic structural cutaways, strong bass/lead contrast.",
+      "engine": {
+        "bass_motion": 8,
+        "drum_mutation": 9,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 9,
+        "hook_density": 8,
+        "arrangement_growth": 9,
+        "harmonic_borrow": 5
+      },
+      "avoid": [
+        "never recreate an identifiable sample",
+        "use authored original motifs",
+        "avoid constant layering and giant festival builds"
+      ],
+      "musical_guidance": {
+        "harmony": "Use evolving soft-color piano/organ voicings; allow bittersweet modal shifts and gentle chromatic voice leading.",
+        "rhythm": "Favor shuffled/offset two-step snare, shuffled hats, kick omission and syncopated percussion; for liquid jungle use rolling break cells.",
+        "bass": "Warm rounded sub and octave/anticipation gestures; keep the bassline independent.",
+        "melody": "Four-to-six note original motifs, intimate vocal range and contour, repeated with one altered ending.",
+        "arrangement": "Compact form, frequent subtractive transitions and significant vocal-space; keep loop identity."
+      }
+    },
+    "ukg_elegant_night": {
+      "reference": "Elegant UK garage / after-hours mood",
+      "core": "Skippy shuffled 2-step drum logic, low-density jazzier extended piano chords, sub bass that anticipates chord changes, expressive negative space.",
+      "engine": {
+        "bass_motion": 6,
+        "drum_mutation": 8,
+        "guitar_activity": 3,
+        "synthetic_artifacts": 4,
+        "hook_density": 6,
+        "arrangement_growth": 5,
+        "harmonic_borrow": 4
+      },
+      "avoid": [
+        "leave at least one silent pocket per phrase",
+        "avoid constant 16th-note hats",
+        "avoid excessive flashy fills"
+      ],
+      "musical_guidance": {
+        "harmony": "Use evolving soft-color piano/organ voicings; allow bittersweet modal shifts and gentle chromatic voice leading.",
+        "rhythm": "Favor shuffled/offset two-step snare, shuffled hats, kick omission and syncopated percussion; for liquid jungle use rolling break cells.",
+        "bass": "Warm rounded sub and octave/anticipation gestures; keep the bassline independent.",
+        "melody": "Four-to-six note original motifs, intimate vocal range and contour, repeated with one altered ending.",
+        "arrangement": "Compact form, frequent subtractive transitions and significant vocal-space; keep loop identity."
+      }
+    },
+    "parttime_lies_eyes_love": {
+      "reference": "Part Time - Lies in the Eyes of Love (2019) songwriting and timbral traits",
+      "core": "Hypnotic rippling synth ostinato, melancholy yet warmly danceable new-wave pulse, compact repeated hook, dry economical drum-machine and an occasional odd accent or outro countermelody.",
+      "engine": {
+        "bass_motion": 6,
+        "drum_mutation": 3,
+        "guitar_activity": 3,
+        "synthetic_artifacts": 7,
+        "hook_density": 8,
+        "arrangement_growth": 5,
+        "harmonic_borrow": 3
+      },
+      "avoid": [
+        "transcribing the actual song hook or progression",
+        "treating lo-fi as arbitrary detuning",
+        "maximal EDM drop",
+        "constant chord reharmonization"
+      ]
+    },
+    "parttime_casio_bedroom": {
+      "reference": "Part Time - What Would You Say? / PDA early bedroom recordings",
+      "core": "Primitive keyboard ostinati, wonky human feel, bright but slightly creepy chord movement, steady inexpensive drum-machine feel, loose guitar coloration and concise strange hooks.",
+      "engine": {
+        "bass_motion": 5,
+        "drum_mutation": 4,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 8,
+        "hook_density": 7,
+        "arrangement_growth": 4,
+        "harmonic_borrow": 5
+      },
+      "avoid": [
+        "random wrong notes mistaken for character",
+        "cloning identifiable vintage Casio riffs",
+        "modern glossy maximal pop layering"
+      ]
+    },
+    "parttime_afterhours_softrock": {
+      "reference": "Part Time - Spell #6 and hazy psychedelic soft-rock sides",
+      "core": "Slow-burn soft-rock harmony, romantic electric-piano and chorus-guitar exchanges, singing bass and subtly wrong turns in a warm, softly surreal bedroom arrangement.",
+      "engine": {
+        "bass_motion": 7,
+        "drum_mutation": 2,
+        "guitar_activity": 7,
+        "synthetic_artifacts": 4,
+        "hook_density": 6,
+        "arrangement_growth": 5,
+        "harmonic_borrow": 6
+      },
+      "avoid": [
+        "wall-to-wall pads",
+        "overly technical bebop harmony",
+        "copying a specific guitar solo"
+      ]
+    },
+    "parttime_neon_motor": {
+      "reference": "Part Time - nocturnal new-wave / synth-disco traits",
+      "core": "Bouncing mono synth bass, short melodic stabs, locked vintage machine pulse, odd but catchy synthetic fill-ins and extended hypnotic movement.",
+      "engine": {
+        "bass_motion": 8,
+        "drum_mutation": 5,
+        "guitar_activity": 2,
+        "synthetic_artifacts": 9,
+        "hook_density": 7,
+        "arrangement_growth": 8,
+        "harmonic_borrow": 3
+      },
+      "avoid": [
+        "generic four-on-the-floor EDM builds",
+        "crowding the vocal register",
+        "constant sixteenth-note filler"
+      ]
+    },
+    "no_movement_cold": {
+      "reference": "New Order - Movement (1981), early post-punk transition",
+      "core": "Cold post-punk austerity: dark repeating minor/ambiguous chords, spare distorted guitar fragments, tense high-register melodic bass, tight live-feel drums, synths as atmospheric interruptions.",
+      "engine": {
+        "bass_motion": 9,
+        "drum_mutation": 3,
+        "guitar_activity": 8,
+        "synthetic_artifacts": 3,
+        "hook_density": 5,
+        "arrangement_growth": 4,
+        "harmonic_borrow": 7
+      },
+      "composition_rules": [
+        "Bass should be an independent upper-register melodic line; avoid sustained sub-bass unless separately assigned.",
+        "Use close two- and three-note voicings, pedal tones and ambiguous suspended color.",
+        "Short repeating guitar figures, imperfect player timing, restrained percussion.",
+        "Silence and starkness matter more than dense keyboards."
+      ],
+      "avoid": [
+        "copying Ceremony, Dreams Never End or original New Order motifs",
+        "droning on a single pitch for minutes without development"
+      ]
+    },
+    "no_pcl_sunrise": {
+      "reference": "New Order - Power Corruption & Lies (1983); early bright post-punk/synth fusion",
+      "core": "Melodic picked bass high in register, chiming economical guitar, primitive synth strings, snappy motoric hats and irresistible bittersweet harmonic lift.",
+      "engine": {
+        "bass_motion": 10,
+        "drum_mutation": 4,
+        "guitar_activity": 8,
+        "synthetic_artifacts": 5,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 5
+      },
+      "composition_rules": [
+        "Lead-like bass melody answers rather than doubles vocal guide.",
+        "Bass movement carries emotional hook; guitar works in repetitive upper cells.",
+        "Favor slowly rotating major/minor ambiguity and suspended resolutions.",
+        "Leave a guitar/bass-only passage somewhere in the arrangement."
+      ],
+      "avoid": [
+        "copying Age of Consent, Temptation or Leave Me Alone basslines",
+        "making chords constantly staccato"
+      ]
+    },
+    "no_lowlife_machine_romance": {
+      "reference": "New Order - Low-Life (1985), synth/post-punk integration",
+      "core": "Dense but legible sequenced synth and electro-drums underneath a distinct melodic picked bass, bright melancholy lead, and tightly grouped guitar accents.",
+      "engine": {
+        "bass_motion": 9,
+        "drum_mutation": 7,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 8,
+        "hook_density": 8,
+        "arrangement_growth": 8,
+        "harmonic_borrow": 4
+      },
+      "composition_rules": [
+        "Let a repetitive low synth-bass ostinato support a separate melodic bass line.",
+        "Mechanical drum grid with occasional machine fills; bass performer remains elastic.",
+        "Extended transitions and periodic instrumental breathing room.",
+        "Reharmonization should not obscure the recognizable topline."
+      ],
+      "avoid": [
+        "recreating Blue Monday or The Perfect Kiss drum sequences",
+        "busy chord comps colliding with both basses"
+      ]
+    },
+    "no_brotherhood_interlock": {
+      "reference": "New Order - Brotherhood (1986), guitars/electronics duality",
+      "core": "Interlocking ringing guitar notes, direct melodic bass, propulsive live-like drums, and occasional pure dance-synth counterweight; bittersweet pop melodic arc.",
+      "engine": {
+        "bass_motion": 9,
+        "drum_mutation": 4,
+        "guitar_activity": 9,
+        "synthetic_artifacts": 4,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 5
+      },
+      "composition_rules": [
+        "Two guitar-register MIDI roles should interlock rhythmically rather than double.",
+        "Use upper-register bass to create moving parallel or contrary countermelody.",
+        "A chorus can feel wide without adding more instruments.",
+        "Use occasional drastic texture switches between band and machines."
+      ],
+      "avoid": [
+        "copying Bizarre Love Triangle",
+        "flattening the guitars into repeated quarter-note chords"
+      ]
+    },
+    "no_technique_balearic": {
+      "reference": "New Order - Technique (1989), Ibiza/Balearic dance-rock chemistry",
+      "core": "Balearic/dance pulse, rolling syncopated house/acid-influenced synth bass, chime-like guitar hooks, organic melodic picked bass and wistful neon-pop chord colors.",
+      "engine": {
+        "bass_motion": 9,
+        "drum_mutation": 8,
+        "guitar_activity": 6,
+        "synthetic_artifacts": 8,
+        "hook_density": 8,
+        "arrangement_growth": 9,
+        "harmonic_borrow": 5
+      },
+      "composition_rules": [
+        "Use a programmed low bass separate from freer upper melodic picked bass.",
+        "Syncopated stabs and pulsing dance percussion; irregular tiny changes rather than giant EDM drops.",
+        "Guitar can enter late as a human counterpoint to already-established machines.",
+        "Song should feel sunlit and sad, with shifting instrumental verses or interludes."
+      ],
+      "avoid": [
+        "copying Fine Time, Round & Round or specific acid basslines",
+        "constant maximal festival-style drops"
+      ]
+    },
+    "no_republic_afterglow": {
+      "reference": "New Order - Republic (1993), warm polished melancholic synth-dance",
+      "core": "Warm glossy chords, simple emotionally direct hook, fluent bass countermelody and smooth steady club drums, bittersweet end-of-night feeling.",
+      "engine": {
+        "bass_motion": 8,
+        "drum_mutation": 5,
+        "guitar_activity": 5,
+        "synthetic_artifacts": 7,
+        "hook_density": 9,
+        "arrangement_growth": 8,
+        "harmonic_borrow": 6
+      },
+      "composition_rules": [
+        "Prefer voice-led warm harmonic loops and understated major/minor interchange.",
+        "Let melody return in altered voicing on final refrain.",
+        "Use broad synth pads without crowding vocal space.",
+        "Gentle drum machine with later lift, not an EDM drop."
+      ],
+      "avoid": [
+        "copying Regret, World or other identifiable themes",
+        "overly glossy synth walls with no bass independence"
+      ]
+    },
+    "no_hook_bass_personality": {
+      "reference": "New Order/Peter Hook melodic picked upper-register bass - abstract performance and arrangement profile",
+      "core": "Bass guitar acts as a memorable melodic voice high above a low pedal or separate synth sub; pick articulation, short connective pickups, repeating contour, chorus-ready movement.",
+      "engine": {
+        "bass_motion": 10,
+        "drum_mutation": 4,
+        "guitar_activity": 6,
+        "synthetic_artifacts": 4,
+        "hook_density": 8,
+        "arrangement_growth": 6,
+        "harmonic_borrow": 5
+      },
+      "composition_rules": [
+        "Write register A2-E4 depending on instrument and chord voicings; allow rare higher peaks.",
+        "Double bass roles only if low synth bass occupies independent register; use high bass as counter-melody.",
+        "Use clear pick-attack accents, mild microtiming deviation and deliberate rests.",
+        "Steer clear of exact famous lines, shapes and quote-like melodies."
+      ],
+      "avoid": [
+        "all-root basslines",
+        "over-quantized pick dynamics",
+        "harmonically unrelated leaps to sound technical"
+      ]
+    }
+  },
+  "role_keys": [
+    "harmony",
+    "rhythm",
+    "bass",
+    "melody",
+    "arrangement"
+  ],
+  "weirdness_axes": [
+    "harmonic",
+    "rhythmic",
+    "form",
+    "register",
+    "texture"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "MIDI_LAB_4.1",
+  "input": "fractured_clockwork_128_base_v4.mid",
+  "style": "fracture",
+  "intensity": 0.94,
+  "drum_complexity": 0.85,
+  "drum_mode": "replace",
+  "seed": 41,
+  "key": "F#",
+  "mode": "minor",
+  "source_anchor_locks": {
+    "Immutable Pulse": true
+  },
+  "added_roles": {
+    "Fracture Drums": 1851,
+    "Bent Chord Stabs": 326,
+    "Detuned Pluck Fragments": 298,
+    "Industrial Percussion": 272,
+    "Chromatic Counterline": 108,
+    "Altered Harmony": 80
+  },
+  "effects_are_recommendations_not_embedded_audio": true,
+  "effects": {
+    "Fracture Drums": {
+      "suggested": "saturator > transient shaper > gated reverb (send)",
+      "notes": "Map channel 10 to a drum kit; swap sample banks, preserve MIDI groove."
+    },
+    "Bent Chord Stabs": {
+      "suggested": "bitcrusher > resonant bandpass > tempo delay",
+      "notes": "Pitch-bend style timbres are produced in the synth, not by changing note pitch in MIDI."
+    },
+    "Detuned Pluck Fragments": {
+      "suggested": "ring mod > chorus > ping-pong delay",
+      "notes": "Assign to a percussive FM synth with short envelope."
+    },
+    "Industrial Percussion": {
+      "suggested": "noise synth > distortion > short metallic reverb",
+      "notes": "Map GM percussion note numbers or customize sampler mapping."
+    },
+    "Altered Harmony": {
+      "suggested": "detuned poly synth > phaser > long reverb send",
+      "notes": "Extended chords and chromatic mediants; automate wetness independently."
+    },
+    "Chromatic Counterline": {
+      "suggested": "mono synth > mild overdrive > flanger",
+      "notes": "Keep below lead in mix; the counterline is optional."
+    }
+  }
+}

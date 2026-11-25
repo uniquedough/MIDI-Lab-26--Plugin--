@@ -1,0 +1,373 @@
+{
+  "file": "windows_still_glowing_ballad.mid",
+  "midi_type": 1,
+  "ppq": 480,
+  "duration_seconds": 239.54,
+  "note_count": 774,
+  "track_count": 5,
+  "technical_pass": true,
+  "validation": {
+    "program_changes": 0,
+    "bank_selects": 0,
+    "unmatched_note_offs": 0,
+    "hanging_notes": 0,
+    "zero_duration_notes": 0,
+    "same_pitch_overlaps": 0,
+    "negative_delta_times": 0
+  },
+  "track_stats": [
+    {
+      "name": "Harmonic Bed",
+      "note_count": 304,
+      "register": [
+        49,
+        76
+      ],
+      "velocity": {
+        "min": 66,
+        "mean": 71.5,
+        "stdev": 1.7,
+        "max": 76
+      },
+      "top_intervals": [
+        [
+          5,
+          43
+        ],
+        [
+          4,
+          31
+        ],
+        [
+          7,
+          30
+        ],
+        [
+          9,
+          25
+        ],
+        [
+          -19,
+          21
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 304
+      },
+      "avg_note_length_beats": 3.394
+    },
+    {
+      "name": "Melodic Bass",
+      "note_count": 128,
+      "register": [
+        42,
+        59
+      ],
+      "velocity": {
+        "min": 70,
+        "mean": 86.6,
+        "stdev": 7.7,
+        "max": 102
+      },
+      "top_intervals": [
+        [
+          -5,
+          44
+        ],
+        [
+          10,
+          13
+        ],
+        [
+          -2,
+          12
+        ],
+        [
+          3,
+          11
+        ],
+        [
+          -8,
+          10
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 70,
+        "10": 58
+      },
+      "avg_note_length_beats": 0.795
+    },
+    {
+      "name": "Picked Guitar",
+      "note_count": 149,
+      "register": [
+        50,
+        70
+      ],
+      "velocity": {
+        "min": 64,
+        "mean": 72.2,
+        "stdev": 3.8,
+        "max": 83
+      },
+      "top_intervals": [
+        [
+          16,
+          37
+        ],
+        [
+          -16,
+          20
+        ],
+        [
+          -19,
+          18
+        ],
+        [
+          14,
+          15
+        ],
+        [
+          -14,
+          14
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "2": 73,
+        "10": 76
+      },
+      "avg_note_length_beats": 0.52
+    },
+    {
+      "name": "Four Note Hook",
+      "note_count": 69,
+      "register": [
+        62,
+        69
+      ],
+      "velocity": {
+        "min": 63,
+        "mean": 72.4,
+        "stdev": 4.6,
+        "max": 85
+      },
+      "top_intervals": [
+        [
+          -2,
+          29
+        ],
+        [
+          -3,
+          17
+        ],
+        [
+          5,
+          16
+        ],
+        [
+          4,
+          6
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "1": 6,
+        "2": 15,
+        "3": 2,
+        "5": 15,
+        "6": 8,
+        "9": 16,
+        "10": 7
+      },
+      "avg_note_length_beats": 0.442
+    },
+    {
+      "name": "Drum Engine",
+      "note_count": 124,
+      "register": [
+        36,
+        36
+      ],
+      "velocity": {
+        "min": 72,
+        "mean": 83.8,
+        "stdev": 7.6,
+        "max": 97
+      },
+      "top_intervals": [
+        [
+          0,
+          123
+        ]
+      ],
+      "sixteenth_grid_counts": {
+        "0": 62,
+        "10": 62
+      },
+      "avg_note_length_beats": 0.071
+    }
+  ],
+  "activity_curve": [
+    {
+      "name": "Signal",
+      "start_bar": 1.0,
+      "end_bar": 6.0,
+      "notes_per_bar": 5.5,
+      "active_roles": 2,
+      "part_counts": {
+        "Harmonic Bed": 24,
+        "Melodic Bass": 0,
+        "Picked Guitar": 9,
+        "Four Note Hook": 0,
+        "Drum Engine": 0
+      }
+    },
+    {
+      "name": "Verse / establish",
+      "start_bar": 7.0,
+      "end_bar": 18.0,
+      "notes_per_bar": 10.0,
+      "active_roles": 4,
+      "part_counts": {
+        "Harmonic Bed": 48,
+        "Melodic Bass": 24,
+        "Picked Guitar": 24,
+        "Four Note Hook": 0,
+        "Drum Engine": 24
+      }
+    },
+    {
+      "name": "Lift / question",
+      "start_bar": 19.0,
+      "end_bar": 28.0,
+      "notes_per_bar": 11.6,
+      "active_roles": 5,
+      "part_counts": {
+        "Harmonic Bed": 40,
+        "Melodic Bass": 21,
+        "Picked Guitar": 20,
+        "Four Note Hook": 15,
+        "Drum Engine": 20
+      }
+    },
+    {
+      "name": "Hook / release",
+      "start_bar": 29.0,
+      "end_bar": 42.0,
+      "notes_per_bar": 11.43,
+      "active_roles": 5,
+      "part_counts": {
+        "Harmonic Bed": 56,
+        "Melodic Bass": 27,
+        "Picked Guitar": 28,
+        "Four Note Hook": 21,
+        "Drum Engine": 28
+      }
+    },
+    {
+      "name": "Open / fragile bridge",
+      "start_bar": 43.0,
+      "end_bar": 50.0,
+      "notes_per_bar": 7.12,
+      "active_roles": 3,
+      "part_counts": {
+        "Harmonic Bed": 33,
+        "Melodic Bass": 8,
+        "Picked Guitar": 16,
+        "Four Note Hook": 0,
+        "Drum Engine": 0
+      }
+    },
+    {
+      "name": "Second arrival",
+      "start_bar": 51.0,
+      "end_bar": 60.0,
+      "notes_per_bar": 11.4,
+      "active_roles": 5,
+      "part_counts": {
+        "Harmonic Bed": 39,
+        "Melodic Bass": 20,
+        "Picked Guitar": 20,
+        "Four Note Hook": 15,
+        "Drum Engine": 20
+      }
+    },
+    {
+      "name": "Final reinterpretation",
+      "start_bar": 61.0,
+      "end_bar": 72.0,
+      "notes_per_bar": 11.58,
+      "active_roles": 5,
+      "part_counts": {
+        "Harmonic Bed": 48,
+        "Melodic Bass": 25,
+        "Picked Guitar": 24,
+        "Four Note Hook": 18,
+        "Drum Engine": 24
+      }
+    },
+    {
+      "name": "Coda / residue",
+      "start_bar": 73.0,
+      "end_bar": 75.9,
+      "notes_per_bar": 9.08,
+      "active_roles": 4,
+      "part_counts": {
+        "Harmonic Bed": 16,
+        "Melodic Bass": 3,
+        "Picked Guitar": 8,
+        "Four Note Hook": 0,
+        "Drum Engine": 8
+      }
+    }
+  ],
+  "bass_kick_onset_overlap": 0.938,
+  "most_common_melodic_contours": [
+    {
+      "contour": [
+        -3,
+        -2,
+        5
+      ],
+      "occurrences": 16
+    },
+    {
+      "contour": [
+        -2,
+        5,
+        -3
+      ],
+      "occurrences": 16
+    },
+    {
+      "contour": [
+        5,
+        -3,
+        -2
+      ],
+      "occurrences": 16
+    },
+    {
+      "contour": [
+        -2,
+        -2,
+        4
+      ],
+      "occurrences": 6
+    }
+  ],
+  "diagnostics": [
+    "Bass largely shadows kick timing; confirm this is intentional."
+  ],
+  "quality_caveat": "These are structural features; ear-based critique is still required.",
+  "declared_key_mode": "D major",
+  "declared_drum_engine": "ballad",
+  "borrowed_chord_occurrences": 2,
+  "motif_operations": {
+    "fragment": 5,
+    "original": 4,
+    "changed final note": 3,
+    "anticipation and displacement": 5,
+    "reordered contour, delayed ending / new harmony": 6
+  },
+  "fretboard_shape_fallbacks": 0
+}

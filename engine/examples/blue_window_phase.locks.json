@@ -1,0 +1,14 @@
+[
+  {
+    "track": "Loop Drums",
+    "cycles": 43,
+    "identical": true,
+    "events_per_cycle": 32
+  },
+  {
+    "track": "Immutable Pulse",
+    "cycles": 43,
+    "identical": true,
+    "events_per_cycle": 16
+  }
+]

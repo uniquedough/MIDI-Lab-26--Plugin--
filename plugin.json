@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "midi-lab",
+  "version": "1.0.0",
+  "description": "Original multitrack MIDI composition, emotional loops, fractural textures, MIDI audits, and tempo-aware Logic Pro effects advice using the complete MIDI Lab 4.2 Python engine.",
+  "author": {"name": "MIDI Lab Contributors"},
+  "keywords": ["midi", "composition", "logic-pro", "music-production", "synth", "effects"],
+  "extensions": {"com.openai": {"interface": {
+    "displayName": "MIDI Lab",
+    "shortDescription": "Compose and produce MIDI",
+    "longDescription": "Create original multi-track MIDI songs, switch between minimalist and fractured arrangements, analyze MIDI quality, and get per-track effects recommendations. Includes the original MIDI Lab 3.0–4.2 source and a local Python MCP server.",
+    "developerName": "MIDI Lab Contributors",
+    "category": "Creativity",
+    "capabilities": ["Interactive"],
+    "defaultPrompt": [
+      "Cook an original 3-minute bittersweet synth-pop MIDI with separate Logic Pro tracks.",
+      "Make a minimalist loop that evolves emotionally without drum fills.",
+      "Analyze my MIDI and suggest tape-bliss effects and dotted-eighth delays."
+    ]
+  }}}
+}
